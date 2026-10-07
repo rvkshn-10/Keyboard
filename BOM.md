@@ -10,20 +10,4 @@
 | --- | --- | --- |
 | Week 1 | Tier 2 | $65.00 |
 
-| Part | Quantity | Specification |
-| --- | ---: | --- |
-| Keyboard PCB | 1 | keyboard61; 295 × 168 mm; 2 layers; 1.6 mm FR4; 1 oz copper |
-| Cherry MX switches | 61 | PCB-mount; soldered; 19.05 mm spacing |
-| Diodes | 61 | 1N4148; DO-35; 7.62 mm lead spacing; backside mounting |
-| Microcontroller | 1 | Original Raspberry Pi Pico; RP2040; micro-USB |
-| Pico male headers | 2 | 1 × 20; 2.54 mm pitch; omit if already fitted |
-| Pico female sockets | 2 | 1 × 20; 2.54 mm pitch; check module height and USB clearance |
-| Reset button | 1 | 6 × 6 mm through-hole momentary switch; SW_PUSH_6mm footprint |
-| Keycaps | 1 set | ANSI 61-key layout; 6.25u spacebar; 2.25u left Shift; 2.75u right Shift |
-| Stabilizers | 4 | 2u PCB-mount; Backspace, Enter, left Shift, right Shift; confirm hole compatibility |
-| Spacebar stabilizer | 1 | 6.25u PCB-mount; confirm hole compatibility |
-| Mounting screws | 4 | M3; length matched to standoffs and enclosure |
-| Standoffs | 4 | M3; clearance for backside diodes and solder joints |
-| USB cable | 1 | Micro-USB data cable; Pico and enclosure compatible |
-| Switch plate | 1 | Custom ANSI layout matching switch centers and stabilizers |
-| Enclosure | 1 | Custom; 295 × 168 mm PCB; controller area and USB access |
+_No parts listed yet._

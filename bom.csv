@@ -6,6 +6,7 @@ Microcontroller,1,Original Raspberry Pi Pico; RP2040; micro-USB
 Pico male headers,2,1 × 20; 2.54 mm pitch; omit if already fitted
 Pico female sockets,2,1 × 20; 2.54 mm pitch; check module height and USB clearance
 Reset button,1,6 × 6 mm through-hole momentary switch; SW_PUSH_6mm footprint
+Keycaps,1,ANSI 61-key set; 6.25u spacebar; 2.25u left Shift; 2.75u right Shift
 Stabilizers,4,"2u PCB-mount; Backspace, Enter, left Shift, right Shift; confirm hole compatibility"
 Spacebar stabilizer,1,6.25u PCB-mount; confirm hole compatibility
 Mounting screws,4,M3; length matched to standoffs and enclosure

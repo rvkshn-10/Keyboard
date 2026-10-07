@@ -1,0 +1,9 @@
+PASS: A press and release
+PASS: Shift+A and release
+PASS: Fn+1 sends F1
+PASS: Fn+I sends Up
+PASS: Fn released before held F1
+PASS: Unused matrix slot sends nothing
+PASS: Menu key usage 0x65
+PASS: 19 GPIO pins, COL2ROW, 61 occupied / 9 unused, 2 x 70 keymaps
+Desktop simulation only; Pico USB, wiring and debounce require hardware testing.

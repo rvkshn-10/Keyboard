@@ -14,15 +14,15 @@
 
 ## Contents
 
-1. [2026-10-06 — June 6](#2026-10-06-june-6)
+1. [2026-10-06 — September 6](#2026-10-06-september-6)
 
 ## Design
 
-### 2026-10-06 — June 6
+### 2026-10-06 — September 6
 
 **9.5h**
 
-June 6
+September 6
 
 Though this was my first time designing a PCB, I still ended up creating a very basic Schematic. I originally began by following a GitHub tutorial, but that got quickly got too confusing, so I restarted  and began with finding KiCad Footprint Libraries and figuring out the electronics theory.
 

@@ -1,6 +1,8 @@
-# Keyboard
-QWERTY Keyboard Project
+# Keyboard 
+Hello, this is a Keyboard Project which was my first time developing a PCB, after numerous errors and attempts, I finally got it done thanks to the Half Life Program at Hack Club. 
+Firmware for the Arduino is in the firmware folder, while the PCB and Schematic files are in the main folder. Inside of the keyboard61 folder you can find the fabrication files necessary to print the actual circuit board. The layout, and pictures have also been put there.
 
+Here are some images of my work!
 ![Project image 1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/3jjjr94n6OVBuAuok83iCpwSTn9oI9Z0/2844f40d75c5796160a3fc0e4111c849d99f9a8e8a85075c33664b29f76958e6.jpg)
 ![Project image 2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/3jjjr94n6OVBuAuok83iCpwSTn9oI9Z0/1ce5be343caff0c61ab4016f752b8d9515fbfa89795fed86c663ede11e9eeec6.png)
 ![Project image 3](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/3jjjr94n6OVBuAuok83iCpwSTn9oI9Z0/6d660de9637e0b907a25daf5680e9168ea810fe933ba5206ebef935523ce8c37.png)

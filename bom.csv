@@ -1,16 +1,11 @@
-Part,Quantity,Specification
-Keyboard PCB,1,keyboard61; 295 × 168 mm; 2 layers; 1.6 mm FR4; 1 oz copper
-Cherry MX switches,61,PCB-mount; soldered; 19.05 mm spacing
-Diodes,61,1N4148; DO-35; 7.62 mm lead spacing; backside mounting
-Microcontroller,1,Original Raspberry Pi Pico; RP2040; micro-USB
-Pico male headers,2,1 × 20; 2.54 mm pitch; omit if already fitted
-Pico female sockets,2,1 × 20; 2.54 mm pitch; check module height and USB clearance
-Reset button,1,6 × 6 mm through-hole momentary switch; SW_PUSH_6mm footprint
-Keycaps,1,ANSI 61-key set; 6.25u spacebar; 2.25u left Shift; 2.75u right Shift
-Stabilizers,4,"2u PCB-mount; Backspace, Enter, left Shift, right Shift; confirm hole compatibility"
-Spacebar stabilizer,1,6.25u PCB-mount; confirm hole compatibility
-Mounting screws,4,M3; length matched to standoffs and enclosure
-Standoffs,4,M3; clearance for backside diodes and solder joints
-USB cable,1,Micro-USB data cable; Pico and enclosure compatible
-Switch plate,1,Custom ANSI layout matching switch centers and stabilizers
-Enclosure,1,Custom; 295 × 168 mm PCB; controller area and USB access
+Part,Quantity,Unit Price,Total Price,Vendor,Vendor Name,Purpose,Specification,Price Status
+Keyboard PCB - batch of 5,1,27.90,27.90,https://cart.jlcpcb.com/quote,JLCPCB,Connect the switches and Pico,keyboard61; 295 x 168 mm; 2 layers; 1.6 mm FR4; 1 oz copper; green; lead-free HASL; 5 boards minimum; 1 used,Size-based quote; Gerber review and shipping excluded
+Gateron Milky Yellow PCB-mount switches,61,0.20,12.20,https://mechanicalkeyboards.com/products/gateron-milky-yellow-50g-linear,Mechanical Keyboards,Detect each of the 61 key presses,Select PCB variant; KS-3Y10B050NW-X1; 5-pin; MX stem; 50g linear; soldered,Listed USD price checked 2026-10-06
+onsemi 1N4148 diodes - purchase lot of 100,1,3.65,3.65,https://www.digikey.com/en/products/detail/onsemi/1N4148/458603,DigiKey,Prevent keyboard matrix ghosting,1N4148FS-ND; DO-35; order 100 at 0.0365 USD each; 61 used and 39 spare; 7.62 mm lead spacing,Listed USD quantity price checked 2026-10-06
+Raspberry Pi Pico H,1,5.50,5.50,https://www.sparkfun.com/raspberry-pi-pico-h.html,SparkFun,Scan the matrix and send USB key presses,DEV-20172; original RP2040 Pico H; micro-USB; male headers already fitted,Listed USD price checked 2026-10-06
+Pico female header pair,1,0.95,0.95,https://www.adafruit.com/product/5583,Adafruit,Socket the Pico H on the PCB,Product 5583; one pair of 1 x 20 female headers; 2.54 mm pitch; verify assembled USB clearance,Listed USD price checked 2026-10-06
+6 mm reset buttons - pack of 20,1,2.50,2.50,https://www.digikey.com/en/products/detail/adafruit-industries-llc/367/10669771,DigiKey,Connect RUN to ground to reset the Pico,Adafruit 367; 6 x 6 mm through-hole momentary buttons; 1 used and 19 spare; verify pin spacing against SW_PUSH_6mm,Listed USD price checked 2026-10-06
+YMDK OEM PBT 61-key keycap set,1,17.90,17.90,https://ymdkey.com/products/104-laser-etched-ymdk-customized-keycaps-oem-profile?variant=30993979080765,YMDK,Provide labelled surfaces for all keys,Select Top Printed / 61; ANSI MX stems; 6.25u spacebar; 2.25u left Shift; 2.75u right Shift,Listed USD variant price checked 2026-10-06
+Cherry PCB clip-in stabilizer full set,1,7.50,7.50,https://ringerkeys.com/products/cherry-pcb-clip-in-stabilizers?variant=39805643587666,Ringer Keys,Support the five wide keys,Full set; 4 x 2u plus 1 x 6.25u/7u; use 6.25u wire; confirm clip-in holes against PCB before fabrication,Listed USD variant price checked 2026-10-06
+M3 nylon screw and standoff kit,1,16.95,16.95,https://www.adafruit.com/product/4685,Adafruit,Support PCB above the desk and protect underside diodes,Product 4685; 420-piece M3 kit; use four 10 mm female-female standoffs and four M3 x 4 mm screws for temporary feet; custom case hardware deferred,Listed USD price checked 2026-10-06
+USB A to Micro-B data cable,1,2.95,2.95,https://www.adafruit.com/product/592,Adafruit,Power the Pico and carry USB keyboard data,Product 592; 3 ft USB A to Micro-B; data-capable,Listed USD price checked 2026-10-06

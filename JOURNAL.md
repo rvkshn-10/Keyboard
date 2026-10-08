@@ -10,13 +10,13 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 21.5h | 3 |
+| Week 1 | Tier 2 | 26.5h | 3 |
 
 ## Contents
 
 1. [2026-10-06 – October 6](#2026-10-06-october-6)
 2. [2026-10-07 – October 7](#2026-10-07-october-7)
-3. [2026-10-07 – October 7](#2026-10-07-october-7)
+3. [2026-10-07 – October 8](#2026-10-07-october-8)
 
 ## Design
 
@@ -105,16 +105,29 @@ The next hour-ish (1-1.5) I've dedicated to creating firmware, I used Python ( a
 
 After this I spent the next 0.5 hour updating everything to github, and pushing changes to get stuff done.
 
-### 2026-10-07 – October 7
+### 2026-10-07 – October 8
 
-**2h**
+**7h**
 
-October 7
+October 8
 
 I had a new idea, what if we move the extra space on top and the pico a better spot to take less space. This would also look cleaner in the overall design
-
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/3jjjr94n6OVBuAuok83iCpwSTn9oI9Z0/476372a50e482bc5971da68dd77d55c1ec0a7427939096c3e2c77a697ba9c565.png)
 
 This change reduce the size 295x100mm and the Pico is now underneath the keyboard, with the USB facing left to connect to the PC. I thought about this so to make it cleaner, the Pico was moved facing the USB to the top. But this caused another problem, the Pico header pins ran into the switch mounting areas, so the cleanest solution was to keep the Pico underneath and use a short USB extension to a port on the case's edge above the number keys. Or we could create a short recessed pocket underneath the keyboard which works equally as well
-
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/3jjjr94n6OVBuAuok83iCpwSTn9oI9Z0/5e483a47002b989338992fe881a46f9d5e9b3caf43d97b63ce9a65a350faa5e1.png)
+
+The next step was to rotate the underside Pico inward. To do this I positioned it's USB port toward the keyboard's center and check clearance around the switch pins
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/3jjjr94n6OVBuAuok83iCpwSTn9oI9Z0/f9198f497345d33f633fd2f26d8cf8aa46c1fb3cd6bec4d48076c3e40c2b4160.png)
+
+I then had to reroute the controller connections, by reconnecting the matrix and reset circuit after changing the Pico orientation.
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/3jjjr94n6OVBuAuok83iCpwSTn9oI9Z0/1d42fd13e496c15f481a4ec3f11bebf00ea82bd56298400c149e716c0a6c3698.png)
+
+Nest I had to plan the USB pocket and cable channel by drawing the proposed case opened and space for insert the plug with the cable exiting above the number keys.
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/3jjjr94n6OVBuAuok83iCpwSTn9oI9Z0/6410481723cc67ea5680e132e43c1828f4882efb612885bb2f3c29efdf8e3715.png)
+
+Then I had to refill the copper zones and run DRC, for which I had to fix any clearance or connection errors introduced by the changes and then capture the following results in the JSON report.
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/3jjjr94n6OVBuAuok83iCpwSTn9oI9Z0/8e9a24b6032586d86f24babaf5c4217f7ccc682b333d44721a2909288cfb44fd.png)
+
+Finally I had to take a look at the updated underside in 3D to check on the controller placement and export new Gerbers and drill files for the new and revised board.
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/3jjjr94n6OVBuAuok83iCpwSTn9oI9Z0/d039131838c8cbd8a4343a18afef8ef71418fc8a5c85e66a4b7d6c149e0b4663.png)

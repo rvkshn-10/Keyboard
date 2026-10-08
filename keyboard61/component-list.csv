@@ -74,8 +74,8 @@ SW11,0,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
 SW12,-,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
 SW13,=,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
 SW14,Backspace,Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB
-SW15,Tab,Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB
-SW16,Q,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
+SW15,Tab,Keyboard61:SW_Cherry_MX_1.50u_PCB_SocketClearance
+SW16,Q,Keyboard61:SW_Cherry_MX_1.00u_PCB_SocketClearance
 SW17,W,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
 SW18,E,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
 SW19,R,Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB
@@ -122,4 +122,4 @@ SW59,Fn,Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB
 SW60,Menu,Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB
 SW61,RCtrl,Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB
 SW62,RESET,Button_Switch_THT:SW_PUSH_6mm
-U1,Raspberry Pi Pico,Module:RaspberryPi_Pico_Common_THT
+U1,Raspberry Pi Pico,Keyboard61:Pico_H_Bottom_Sockets_8_5mm

@@ -1,0 +1,1 @@
+(fp_lib_table (version 7) (lib (name "Keyboard61") (type "KiCad") (uri "${KIPRJMOD}/Keyboard61.pretty") (options "") (descr "Keyboard61 underside socket placement")))

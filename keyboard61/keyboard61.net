@@ -1,8 +1,8 @@
 (export
 	(version "E")
 	(design
-		(source "C:\\Users\\ravip\\Documents\\Codex\\2026-10-06\\can\\outputs\\keyboard61\\keyboard61.kicad_sch")
-		(date "2026-10-06T20:33:33")
+		(source "C:\\Users\\ravip\\Documents\\Codex\\2026-10-06\\can\\work\\compact\\finished.kicad_sch")
+		(date "2026-10-07T19:54:40")
 		(tool "Eeschema 10.0.6")
 		(sheet
 			(number "1")
@@ -13,7 +13,7 @@
 				(company "AI-assisted learning project")
 				(rev "1.0")
 				(date "2026-10-06")
-				(source "keyboard61.kicad_sch")
+				(source "finished.kicad_sch")
 				(comment
 					(number "1")
 					(value "")
@@ -75,11 +75,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -129,11 +129,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -183,11 +183,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -237,11 +237,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -291,11 +291,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -345,11 +345,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -399,11 +399,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -453,11 +453,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -507,11 +507,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -561,11 +561,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -615,11 +615,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -669,11 +669,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -723,11 +723,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -777,11 +777,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -831,11 +831,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -885,11 +885,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -939,11 +939,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -993,11 +993,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1047,11 +1047,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1101,11 +1101,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1155,11 +1155,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1209,11 +1209,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1263,11 +1263,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1317,11 +1317,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1371,11 +1371,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1425,11 +1425,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1479,11 +1479,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1533,11 +1533,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1587,11 +1587,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1641,11 +1641,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1695,11 +1695,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1749,11 +1749,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1803,11 +1803,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1857,11 +1857,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1911,11 +1911,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1965,11 +1965,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2019,11 +2019,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2073,11 +2073,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2127,11 +2127,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2181,11 +2181,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2235,11 +2235,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2289,11 +2289,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2343,11 +2343,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2397,11 +2397,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2451,11 +2451,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2505,11 +2505,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2559,11 +2559,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2613,11 +2613,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2667,11 +2667,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2721,11 +2721,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2775,11 +2775,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2829,11 +2829,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2883,11 +2883,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2937,11 +2937,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2991,11 +2991,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3045,11 +3045,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3099,11 +3099,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3153,11 +3153,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3207,11 +3207,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3261,11 +3261,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3315,11 +3315,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3369,11 +3369,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3419,11 +3419,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3469,11 +3469,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3519,11 +3519,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3569,11 +3569,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3619,11 +3619,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3669,11 +3669,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3719,11 +3719,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3769,11 +3769,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3819,11 +3819,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3869,11 +3869,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3919,11 +3919,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3969,11 +3969,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4019,11 +4019,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4051,10 +4051,10 @@
 		(comp
 			(ref "SW15")
 			(value "Tab")
-			(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB")
+			(footprint "Keyboard61:SW_Cherry_MX_1.50u_PCB_SocketClearance")
 			(fields
 				(field
-					(name "Footprint") "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_PCB")
+					(name "Footprint") "Keyboard61:SW_Cherry_MX_1.50u_PCB_SocketClearance")
 				(field
 					(name "Datasheet")
 				)
@@ -4069,11 +4069,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4101,10 +4101,10 @@
 		(comp
 			(ref "SW16")
 			(value "Q")
-			(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+			(footprint "Keyboard61:SW_Cherry_MX_1.00u_PCB_SocketClearance")
 			(fields
 				(field
-					(name "Footprint") "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB")
+					(name "Footprint") "Keyboard61:SW_Cherry_MX_1.00u_PCB_SocketClearance")
 				(field
 					(name "Datasheet")
 				)
@@ -4119,11 +4119,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4169,11 +4169,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4219,11 +4219,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4269,11 +4269,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4319,11 +4319,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4369,11 +4369,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4419,11 +4419,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4469,11 +4469,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4519,11 +4519,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4569,11 +4569,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4619,11 +4619,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4669,11 +4669,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4719,11 +4719,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4769,11 +4769,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4819,11 +4819,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4869,11 +4869,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4919,11 +4919,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4969,11 +4969,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5019,11 +5019,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5069,11 +5069,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5119,11 +5119,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5169,11 +5169,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5219,11 +5219,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5269,11 +5269,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5319,11 +5319,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5369,11 +5369,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5419,11 +5419,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5469,11 +5469,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5519,11 +5519,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5569,11 +5569,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5619,11 +5619,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5669,11 +5669,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5719,11 +5719,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5769,11 +5769,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5819,11 +5819,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5869,11 +5869,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5919,11 +5919,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5969,11 +5969,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6019,11 +6019,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6069,11 +6069,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6119,11 +6119,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6169,11 +6169,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6219,11 +6219,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6269,11 +6269,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6319,11 +6319,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6369,11 +6369,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6419,11 +6419,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6451,10 +6451,10 @@
 		(comp
 			(ref "U1")
 			(value "Raspberry Pi Pico")
-			(footprint "Module:RaspberryPi_Pico_Common_THT")
+			(footprint "Keyboard61:Pico_H_Bottom_Sockets_8_5mm")
 			(fields
 				(field
-					(name "Footprint") "Module:RaspberryPi_Pico_Common_THT")
+					(name "Footprint") "Keyboard61:Pico_H_Bottom_Sockets_8_5mm")
 				(field
 					(name "Datasheet")
 				)
@@ -6469,11 +6469,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "keyboard61")
+				(value "finished")
 			)
 			(property
 				(name "Sheetfile")
-				(value "keyboard61.kicad_sch")
+				(value "finished.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")

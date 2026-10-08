@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A QWERTY wireless keyboard with physical knobs
+> A QWERTY wiredkeyboard
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |

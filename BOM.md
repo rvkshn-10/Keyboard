@@ -17,7 +17,7 @@
 | [Raspberry Pi Pico H](https://www.digikey.com/en/products/detail/raspberry-pi/SC0917/16608257) | Scan the matrix, send USB outputs | 1 | $5.00 | $5.00 | [Digikey](https://www.digikey.com/en/products/detail/raspberry-pi/SC0917/16608257) |
 | [Adafruit Pico female socket pair](https://www.digikey.com/en/products/detail/adafruit-industries-llc/5583/16688063) | Socket the Pico on the PCB | 1 | $0.95 | $0.95 | [Digikey](https://www.digikey.com/en/products/detail/adafruit-industries-llc/5583/16688063) |
 | **Parts subtotal** | — | — | — | **$39.54** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$39.54** | — |
+| **Tax & shipping** | — | — | — | **$25.33** | — |
+| **Total** | — | — | — | **$64.87** | — |
 
-$25.46 left of the tier's funding.
+$0.13 left of the tier's funding.

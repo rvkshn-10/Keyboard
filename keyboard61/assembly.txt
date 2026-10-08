@@ -3,10 +3,17 @@ Board: 295 x 100 mm, x45..340 y113..213, 1.6 mm FR4.
 61 original key positions and GPIO assignments preserved. Firmware unchanged.
 Pico H and reset switch fitted on BACK. Switches on FRONT.
 Fit the two standard-height 8.5 mm 1x20 female sockets on BACK, matching pad 1.
-Pico USB faces LEFT. Provide a case opening at the left edge for the plug.
+Pico USB faces RIGHT, toward the keyboard center, underneath the PCB.
+No USB extension cable is required by this revision.
+Plan an accessible pocket in the CASE underside for inserting a normal Micro-B plug.
+The proposed channel leads toward the edge above the number keys.
+User.Drawings is a case-planning sketch, not copper or a PCB cutout.
+Pocket envelope and channel are provisional; measure the real plug before case design.
+Keep the cable and slack clear of switch pins, diode leads and mounting fasteners.
+Allow cable bend radius and strain relief; never force a bend directly at the connector.
 Leave at least 15 mm below the keyboard PCB as a preliminary enclosure allowance;
 verify the actual Pico, USB plug and socket assembly before making the case.
-Diodes D1,D2,D3,D15,D16,D17 moved beneath the spacebar area; follow K marks.
+Diodes D1,D2,D3,D15,D16,D17 remain beneath the spacebar area; follow K marks.
 Underside Pico BOOTSEL and reset must remain accessible through the case.
 KiCad DRC: 0 violations, 0 unconnected, 0 schematic parity issues; no exclusions.
 KiCad schematic ERC: 0 violations. Hardware has not been assembled or tested.

@@ -2,7 +2,7 @@
 	(version "E")
 	(design
 		(source "C:\\Users\\ravip\\Documents\\Codex\\2026-10-06\\can\\work\\compact\\finished.kicad_sch")
-		(date "2026-10-07T19:54:40")
+		(date "2026-10-07T20:56:49")
 		(tool "Eeschema 10.0.6")
 		(sheet
 			(number "1")
@@ -75,7 +75,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -129,7 +129,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -183,7 +183,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -237,7 +237,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -291,7 +291,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -345,7 +345,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -399,7 +399,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -453,7 +453,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -507,7 +507,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -561,7 +561,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -615,7 +615,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -669,7 +669,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -723,7 +723,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -777,7 +777,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -831,7 +831,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -885,7 +885,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -939,7 +939,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -993,7 +993,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1047,7 +1047,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1101,7 +1101,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1155,7 +1155,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1209,7 +1209,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1263,7 +1263,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1317,7 +1317,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1371,7 +1371,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1425,7 +1425,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1479,7 +1479,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1533,7 +1533,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1587,7 +1587,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1641,7 +1641,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1695,7 +1695,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1749,7 +1749,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1803,7 +1803,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1857,7 +1857,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1911,7 +1911,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -1965,7 +1965,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2019,7 +2019,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2073,7 +2073,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2127,7 +2127,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2181,7 +2181,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2235,7 +2235,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2289,7 +2289,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2343,7 +2343,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2397,7 +2397,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2451,7 +2451,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2505,7 +2505,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2559,7 +2559,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2613,7 +2613,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2667,7 +2667,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2721,7 +2721,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2775,7 +2775,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2829,7 +2829,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2883,7 +2883,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2937,7 +2937,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -2991,7 +2991,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3045,7 +3045,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3099,7 +3099,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3153,7 +3153,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3207,7 +3207,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3261,7 +3261,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3315,7 +3315,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3369,7 +3369,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3419,7 +3419,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3469,7 +3469,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3519,7 +3519,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3569,7 +3569,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3619,7 +3619,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3669,7 +3669,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3719,7 +3719,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3769,7 +3769,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3819,7 +3819,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3869,7 +3869,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3919,7 +3919,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -3969,7 +3969,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4019,7 +4019,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4069,7 +4069,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4119,7 +4119,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4169,7 +4169,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4219,7 +4219,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4269,7 +4269,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4319,7 +4319,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4369,7 +4369,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4419,7 +4419,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4469,7 +4469,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4519,7 +4519,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4569,7 +4569,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4619,7 +4619,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4669,7 +4669,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4719,7 +4719,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4769,7 +4769,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4819,7 +4819,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4869,7 +4869,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4919,7 +4919,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -4969,7 +4969,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5019,7 +5019,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5069,7 +5069,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5119,7 +5119,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5169,7 +5169,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5219,7 +5219,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5269,7 +5269,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5319,7 +5319,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5369,7 +5369,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5419,7 +5419,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5469,7 +5469,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5519,7 +5519,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5569,7 +5569,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5619,7 +5619,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5669,7 +5669,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5719,7 +5719,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5769,7 +5769,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5819,7 +5819,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5869,7 +5869,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5919,7 +5919,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -5969,7 +5969,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -6019,7 +6019,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -6069,7 +6069,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -6119,7 +6119,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -6169,7 +6169,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -6219,7 +6219,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -6269,7 +6269,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -6319,7 +6319,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -6369,7 +6369,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -6419,7 +6419,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")
@@ -6469,7 +6469,7 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "finished")
+				(value "Root")
 			)
 			(property
 				(name "Sheetfile")

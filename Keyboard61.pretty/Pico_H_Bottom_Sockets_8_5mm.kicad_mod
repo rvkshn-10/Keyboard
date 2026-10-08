@@ -10,7 +10,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "07f19ed9-842a-4cc7-a034-14f45e38dde7")
+		(uuid "7d8365bb-b515-46b6-86a8-69a2080592bc")
 		(effects
 			(font
 				(size 1 1)
@@ -24,7 +24,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "65c869f3-d6dc-4c56-b3b5-985ce7f26943")
+		(uuid "a75ee9d5-0504-429b-8bef-ff5ab8677f39")
 		(effects
 			(font
 				(size 1 1)
@@ -33,10 +33,10 @@
 		)
 	)
 	(property "Datasheet" ""
-		(at 8.89 24.13 180)
+		(at 8.89 24.13 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "9d880baa-7d12-46e2-957a-3737dd614537")
+		(uuid "2ff1baac-ee02-4361-aa8f-3fa847ebe470")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,10 +45,10 @@
 		)
 	)
 	(property "Description" ""
-		(at 8.89 24.13 180)
+		(at 8.89 24.13 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "df95ec97-948d-4f70-b698-92e62a4b5ffb")
+		(uuid "abf53134-fdde-44c9-a5cc-9bd2cfebc90f")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -332,7 +332,7 @@
 		)
 	)
 	(fp_text user "${REFERENCE}"
-		(at 8.89 24.13 90)
+		(at 8.89 24.13 270)
 		(layer "F.Fab")
 		(uuid "d24a697b-9813-418d-af2a-78c41d85db65")
 		(effects

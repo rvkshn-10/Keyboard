@@ -18,7 +18,7 @@
 | [Adafruit Pico female socket pair](https://www.digikey.com/en/products/detail/adafruit-industries-llc/5583/16688063) | Socket the Pico on the PCB | 1 | $0.95 | $0.95 | [Digikey](https://www.digikey.com/en/products/detail/adafruit-industries-llc/5583/16688063) |
 | [Adafruit 4111 USB-A to Micro-B cable, 1 m](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4111/9992197) | Connects the Pico to the PC | 1 | $3.95 | $3.95 | [DigiKey](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4111/9992197) |
 | **Parts subtotal** | — | — | — | **$43.49** | — |
-| **Tax & shipping** | — | — | — | **$24.00** | — |
-| **Total** | — | — | — | **$67.49** | — |
+| **Tax & shipping** | — | — | — | **$20.00** | — |
+| **Total** | — | — | — | **$63.49** | — |
 
-**$2.49 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$1.51 left of the tier's funding.

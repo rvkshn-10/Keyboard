@@ -18,3 +18,5 @@ Underside Pico BOOTSEL and reset must remain accessible through the case.
 KiCad DRC: 0 violations, 0 unconnected, 0 schematic parity issues; no exclusions.
 KiCad schematic ERC: 0 violations. Hardware has not been assembled or tested.
 PCB fabrication price and shipping must be re-quoted for the new dimensions.
+
+Week 2 case-mounted volume encoder: GP19/20/21 (Pico pads25/26/27), common to GND. See CAD/assembly.txt. Hardware fit and encoder behavior remain untested.

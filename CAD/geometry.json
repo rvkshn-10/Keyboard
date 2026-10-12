@@ -1,0 +1,773 @@
+{
+  "keys": [
+    {
+      "reference": "SW39",
+      "x": 222.8125,
+      "y": 53.875
+    },
+    {
+      "reference": "SW60",
+      "x": 258.5313,
+      "y": 15.775000000000006
+    },
+    {
+      "reference": "SW3",
+      "x": 56.125,
+      "y": 91.975
+    },
+    {
+      "reference": "SW28",
+      "x": 279.9625,
+      "y": 72.92500000000001
+    },
+    {
+      "reference": "SW1",
+      "x": 18.025,
+      "y": 91.975
+    },
+    {
+      "reference": "SW29",
+      "x": 25.168800000000005,
+      "y": 53.875
+    },
+    {
+      "reference": "SW6",
+      "x": 113.275,
+      "y": 91.975
+    },
+    {
+      "reference": "SW33",
+      "x": 108.51249999999999,
+      "y": 53.875
+    },
+    {
+      "reference": "SW41",
+      "x": 272.8188,
+      "y": 53.875
+    },
+    {
+      "reference": "SW42",
+      "x": 29.931299999999993,
+      "y": 34.82499999999999
+    },
+    {
+      "reference": "SW16",
+      "x": 46.599999999999994,
+      "y": 72.92500000000001
+    },
+    {
+      "reference": "SW47",
+      "x": 137.0875,
+      "y": 34.82499999999999
+    },
+    {
+      "reference": "SW26",
+      "x": 237.10000000000002,
+      "y": 72.92500000000001
+    },
+    {
+      "reference": "SW17",
+      "x": 65.65,
+      "y": 72.92500000000001
+    },
+    {
+      "reference": "SW56",
+      "x": 68.0313,
+      "y": 15.775000000000006
+    },
+    {
+      "reference": "SW55",
+      "x": 44.2188,
+      "y": 15.775000000000006
+    },
+    {
+      "reference": "SW49",
+      "x": 175.1875,
+      "y": 34.82499999999999
+    },
+    {
+      "reference": "SW20",
+      "x": 122.80000000000001,
+      "y": 72.92500000000001
+    },
+    {
+      "reference": "SW48",
+      "x": 156.1375,
+      "y": 34.82499999999999
+    },
+    {
+      "reference": "SW5",
+      "x": 94.225,
+      "y": 91.975
+    },
+    {
+      "reference": "SW14",
+      "x": 275.2,
+      "y": 91.975
+    },
+    {
+      "reference": "SW27",
+      "x": 256.15,
+      "y": 72.92500000000001
+    },
+    {
+      "reference": "SW8",
+      "x": 151.375,
+      "y": 91.975
+    },
+    {
+      "reference": "SW15",
+      "x": 22.787499999999994,
+      "y": 72.92500000000001
+    },
+    {
+      "reference": "SW58",
+      "x": 210.9063,
+      "y": 15.775000000000006
+    },
+    {
+      "reference": "SW53",
+      "x": 268.0563,
+      "y": 34.82499999999999
+    },
+    {
+      "reference": "SW40",
+      "x": 241.8625,
+      "y": 53.875
+    },
+    {
+      "reference": "SW34",
+      "x": 127.5625,
+      "y": 53.875
+    },
+    {
+      "reference": "SW13",
+      "x": 246.625,
+      "y": 91.975
+    },
+    {
+      "reference": "SW7",
+      "x": 132.325,
+      "y": 91.975
+    },
+    {
+      "reference": "SW54",
+      "x": 20.4063,
+      "y": 15.775000000000006
+    },
+    {
+      "reference": "SW45",
+      "x": 98.98750000000001,
+      "y": 34.82499999999999
+    },
+    {
+      "reference": "SW51",
+      "x": 213.2875,
+      "y": 34.82499999999999
+    },
+    {
+      "reference": "SW44",
+      "x": 79.9375,
+      "y": 34.82499999999999
+    },
+    {
+      "reference": "SW46",
+      "x": 118.0375,
+      "y": 34.82499999999999
+    },
+    {
+      "reference": "SW61",
+      "x": 282.3438,
+      "y": 15.775000000000006
+    },
+    {
+      "reference": "SW23",
+      "x": 179.95,
+      "y": 72.92500000000001
+    },
+    {
+      "reference": "SW21",
+      "x": 141.85,
+      "y": 72.92500000000001
+    },
+    {
+      "reference": "SW24",
+      "x": 199.0,
+      "y": 72.92500000000001
+    },
+    {
+      "reference": "SW4",
+      "x": 75.175,
+      "y": 91.975
+    },
+    {
+      "reference": "SW12",
+      "x": 227.575,
+      "y": 91.975
+    },
+    {
+      "reference": "SW11",
+      "x": 208.525,
+      "y": 91.975
+    },
+    {
+      "reference": "SW35",
+      "x": 146.6125,
+      "y": 53.875
+    },
+    {
+      "reference": "SW19",
+      "x": 103.75,
+      "y": 72.92500000000001
+    },
+    {
+      "reference": "SW57",
+      "x": 139.4688,
+      "y": 15.775000000000006
+    },
+    {
+      "reference": "SW30",
+      "x": 51.3625,
+      "y": 53.875
+    },
+    {
+      "reference": "SW32",
+      "x": 89.4625,
+      "y": 53.875
+    },
+    {
+      "reference": "SW59",
+      "x": 234.7188,
+      "y": 15.775000000000006
+    },
+    {
+      "reference": "SW38",
+      "x": 203.7625,
+      "y": 53.875
+    },
+    {
+      "reference": "SW9",
+      "x": 170.425,
+      "y": 91.975
+    },
+    {
+      "reference": "SW10",
+      "x": 189.475,
+      "y": 91.975
+    },
+    {
+      "reference": "SW50",
+      "x": 194.2375,
+      "y": 34.82499999999999
+    },
+    {
+      "reference": "SW31",
+      "x": 70.4125,
+      "y": 53.875
+    },
+    {
+      "reference": "SW52",
+      "x": 232.33749999999998,
+      "y": 34.82499999999999
+    },
+    {
+      "reference": "SW2",
+      "x": 37.075,
+      "y": 91.975
+    },
+    {
+      "reference": "SW25",
+      "x": 218.05,
+      "y": 72.92500000000001
+    },
+    {
+      "reference": "SW22",
+      "x": 160.9,
+      "y": 72.92500000000001
+    },
+    {
+      "reference": "SW37",
+      "x": 184.7125,
+      "y": 53.875
+    },
+    {
+      "reference": "SW18",
+      "x": 84.7,
+      "y": 72.92500000000001
+    },
+    {
+      "reference": "SW43",
+      "x": 60.8875,
+      "y": 34.82499999999999
+    },
+    {
+      "reference": "SW36",
+      "x": 165.6625,
+      "y": 53.875
+    }
+  ],
+  "stabilizers": [
+    [
+      260.9188,
+      53.255
+    ],
+    [
+      284.7188,
+      53.255
+    ],
+    [
+      18.0313,
+      34.20499999999999
+    ],
+    [
+      41.8313,
+      34.20499999999999
+    ],
+    [
+      263.3,
+      91.35499999999999
+    ],
+    [
+      287.1,
+      91.35499999999999
+    ],
+    [
+      256.1563,
+      34.20499999999999
+    ],
+    [
+      279.9563,
+      34.20499999999999
+    ],
+    [
+      89.46879999999999,
+      15.155000000000006
+    ],
+    [
+      189.4688,
+      15.155000000000006
+    ]
+  ],
+  "holes": [
+    [
+      294.5,
+      7.5
+    ],
+    [
+      294.5,
+      99.5
+    ],
+    [
+      7.5,
+      99.5
+    ],
+    [
+      7.5,
+      7.5
+    ]
+  ],
+  "minimum_nominal_pin_clearance_mm": 0.255,
+  "clearance_assumptions": "14mm square switch body; 0.7mm diameter header pin. Does not include manufacturing tolerance, actual Gateron housing details or assembly fit.",
+  "clearances": [
+    {
+      "switch": "SW16",
+      "pico_pad": "1",
+      "pin_to_nominal_14mm_body_mm": 1.11
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "2",
+      "pin_to_nominal_14mm_body_mm": 0.255
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "3",
+      "pin_to_nominal_14mm_body_mm": 0.255
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "4",
+      "pin_to_nominal_14mm_body_mm": 0.255
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "5",
+      "pin_to_nominal_14mm_body_mm": 0.255
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "6",
+      "pin_to_nominal_14mm_body_mm": 0.255
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "7",
+      "pin_to_nominal_14mm_body_mm": 0.255
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "8",
+      "pin_to_nominal_14mm_body_mm": 1.97
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "9",
+      "pin_to_nominal_14mm_body_mm": 4.51
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "10",
+      "pin_to_nominal_14mm_body_mm": 7.05
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "11",
+      "pin_to_nominal_14mm_body_mm": 9.59
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "12",
+      "pin_to_nominal_14mm_body_mm": 12.13
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "13",
+      "pin_to_nominal_14mm_body_mm": 14.67
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "14",
+      "pin_to_nominal_14mm_body_mm": 17.21
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "15",
+      "pin_to_nominal_14mm_body_mm": 19.75
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "16",
+      "pin_to_nominal_14mm_body_mm": 22.29
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "17",
+      "pin_to_nominal_14mm_body_mm": 24.83
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "18",
+      "pin_to_nominal_14mm_body_mm": 27.37
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "19",
+      "pin_to_nominal_14mm_body_mm": 29.91
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "20",
+      "pin_to_nominal_14mm_body_mm": 32.45
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "21",
+      "pin_to_nominal_14mm_body_mm": 32.45
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "22",
+      "pin_to_nominal_14mm_body_mm": 29.91
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "23",
+      "pin_to_nominal_14mm_body_mm": 27.37
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "24",
+      "pin_to_nominal_14mm_body_mm": 24.83
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "25",
+      "pin_to_nominal_14mm_body_mm": 22.29
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "26",
+      "pin_to_nominal_14mm_body_mm": 19.75
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "27",
+      "pin_to_nominal_14mm_body_mm": 17.21
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "28",
+      "pin_to_nominal_14mm_body_mm": 14.67
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "29",
+      "pin_to_nominal_14mm_body_mm": 12.13
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "30",
+      "pin_to_nominal_14mm_body_mm": 9.59
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "31",
+      "pin_to_nominal_14mm_body_mm": 7.05
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "32",
+      "pin_to_nominal_14mm_body_mm": 4.51
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "33",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "34",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "35",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "36",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "37",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "38",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "39",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW16",
+      "pico_pad": "40",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "1",
+      "pin_to_nominal_14mm_body_mm": 24.923
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "2",
+      "pin_to_nominal_14mm_body_mm": 22.383
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "3",
+      "pin_to_nominal_14mm_body_mm": 19.843
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "4",
+      "pin_to_nominal_14mm_body_mm": 17.303
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "5",
+      "pin_to_nominal_14mm_body_mm": 14.763
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "6",
+      "pin_to_nominal_14mm_body_mm": 12.223
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "7",
+      "pin_to_nominal_14mm_body_mm": 9.682
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "8",
+      "pin_to_nominal_14mm_body_mm": 7.143
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "9",
+      "pin_to_nominal_14mm_body_mm": 4.603
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "10",
+      "pin_to_nominal_14mm_body_mm": 2.063
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "11",
+      "pin_to_nominal_14mm_body_mm": 0.255
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "12",
+      "pin_to_nominal_14mm_body_mm": 0.255
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "13",
+      "pin_to_nominal_14mm_body_mm": 0.255
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "14",
+      "pin_to_nominal_14mm_body_mm": 0.255
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "15",
+      "pin_to_nominal_14mm_body_mm": 0.255
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "16",
+      "pin_to_nominal_14mm_body_mm": 0.255
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "17",
+      "pin_to_nominal_14mm_body_mm": 1.017
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "18",
+      "pin_to_nominal_14mm_body_mm": 3.557
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "19",
+      "pin_to_nominal_14mm_body_mm": 6.097
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "20",
+      "pin_to_nominal_14mm_body_mm": 8.637
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "21",
+      "pin_to_nominal_14mm_body_mm": 8.637
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "22",
+      "pin_to_nominal_14mm_body_mm": 6.097
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "23",
+      "pin_to_nominal_14mm_body_mm": 3.557
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "24",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "25",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "26",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "27",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "28",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "29",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "30",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "31",
+      "pin_to_nominal_14mm_body_mm": 2.825
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "32",
+      "pin_to_nominal_14mm_body_mm": 4.603
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "33",
+      "pin_to_nominal_14mm_body_mm": 7.143
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "34",
+      "pin_to_nominal_14mm_body_mm": 9.682
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "35",
+      "pin_to_nominal_14mm_body_mm": 12.223
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "36",
+      "pin_to_nominal_14mm_body_mm": 14.763
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "37",
+      "pin_to_nominal_14mm_body_mm": 17.303
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "38",
+      "pin_to_nominal_14mm_body_mm": 19.843
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "39",
+      "pin_to_nominal_14mm_body_mm": 22.383
+    },
+    {
+      "switch": "SW15",
+      "pico_pad": "40",
+      "pin_to_nominal_14mm_body_mm": 24.923
+    }
+  ]
+}

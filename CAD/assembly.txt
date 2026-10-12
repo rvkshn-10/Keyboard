@@ -1,0 +1,57 @@
+Keyboard61 enclosure prototype - 2026-10-12
+
+Files and units
+keyboard61-enclosure.step is the assembly for Fusion, in millimetres.
+base.step and switch-plate.step are the actual manufactured/printed solids.
+PCB, knob and encoder solids inside the assembly are reference envelopes.
+Do not print the assembly or the case-preview.stl.
+For a paid service: print base.stl x1, switch-plate.stl x1, plate-spacer.stl x4.
+For a 256mm printer: print base-left/right and switch-plate-left/right x1 each,
+join-strap.stl x2, plate-spacer.stl x4. Join base halves with four M3 bolts and nuts.
+Support the underside uniformly when using protruding joining straps.
+
+Mounting
+Case outside: 333 x 107 x 27.6mm excluding keys and knob.
+Keyboard PCB remains 295 x 100 x 1.6mm, with its underside at z21mm.
+Four bosses match the actual PCB mounting holes. Pilot holes are 2.7mm for M3.
+Use four 3.5mm plate spacers between PCB top and plate underside.
+The 1.5mm switch plate has 61 openings and ten stabilizer clearance slots.
+Switch-plate top is 5mm above PCB top. Check switch latch engagement on a sample.
+Plate attaches through the existing four PCB mounting holes into the printed bosses.
+Trial M3 x12mm screws and verify engagement before final assembly.
+
+Volume encoder
+Selected accessory: Adafruit product 377 Rotary Encoder + Extras.
+Vendor https://www.adafruit.com/product/377
+Includes encoder, knob and mounting hardware. Panel hole is 7.2mm diameter.
+Mount in the right side panel, x315 y91mm, using the supplied washer and nut.
+Underside walls limit rotation of the encoder body; verify the delivered body fits.
+A -> Pico physical pad25 (GP19), B -> pad26 (GP20).
+S1 -> pad27 (GP21), C and S2 -> GND, for example Pico pad28.
+Wire directly to the free Pico socket solder pads. Encoder is not on the keyboard PCB.
+Use five insulated conductors. Prevent shorts at exposed joints and secure strain relief.
+KMK uses pull-ups. Do not connect encoder contacts to 5V or VBUS.
+Both keymap layers: turn left volume down, turn right volume up, press mute.
+If physical direction is reversed, set is_inverted=True in encoder_handler.pins.
+Reboot after installing boot.py so USB consumer-control reports become available.
+
+USB access
+An underside access opening exposes the area around the inward-facing USB plug.
+The floor slot continues to a rear cable exit. No USB extension is required.
+Actual plug insertion, bend radius, BOOTSEL and reset access need a fit check.
+
+Checks and remaining fit work
+CAD solids pass OpenCascade validity checks. See model-checks.json.
+Electrical DRC/ERC and schematic parity are checked separately.
+Physical hardware has not been assembled or tested.
+Nominal Pico header-pin clearance at Tab/Q is only 0.255mm using a 14mm square
+switch body and 0.7mm pin diameter. This excludes actual housing shape and tolerances.
+Do not treat this as verified manufacturing clearance. Trial fit or move the socket
+before ordering if the actual switches or protruding solder joints intrude.
+Confirm stabilizer cutouts, switch fit and cable access before purchasing a full print.
+Paid-service pricing is a separate quote, not the $6-7 filament-only estimate.
+
+Sources
+Encoder: https://www.adafruit.com/product/377
+Encoder dimensions: https://cdn-shop.adafruit.com/datasheets/pec11.pdf
+Firmware: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/encoder.md

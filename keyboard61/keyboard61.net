@@ -1,8 +1,8 @@
 (export
 	(version "E")
 	(design
-		(source "C:\\Users\\ravip\\Documents\\Codex\\2026-10-06\\can\\work\\compact\\finished.kicad_sch")
-		(date "2026-10-07T20:56:49")
+		(source "C:\\Users\\ravip\\Documents\\Codex\\2026-10-06\\can\\work\\week2\\keyboard61.kicad_sch")
+		(date "2026-10-12T15:00:21")
 		(tool "Eeschema 10.0.6")
 		(sheet
 			(number "1")
@@ -13,7 +13,7 @@
 				(company "AI-assisted learning project")
 				(rev "1.0")
 				(date "2026-10-06")
-				(source "finished.kicad_sch")
+				(source "keyboard61.kicad_sch")
 				(comment
 					(number "1")
 					(value "")
@@ -75,11 +75,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -129,11 +129,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -183,11 +183,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -237,11 +237,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -291,11 +291,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -345,11 +345,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -399,11 +399,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -453,11 +453,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -507,11 +507,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -561,11 +561,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -615,11 +615,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -669,11 +669,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -723,11 +723,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -777,11 +777,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -831,11 +831,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -885,11 +885,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -939,11 +939,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -993,11 +993,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1047,11 +1047,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1101,11 +1101,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1155,11 +1155,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1209,11 +1209,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1263,11 +1263,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1317,11 +1317,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1371,11 +1371,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1425,11 +1425,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1479,11 +1479,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1533,11 +1533,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1587,11 +1587,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1641,11 +1641,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1695,11 +1695,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1749,11 +1749,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1803,11 +1803,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1857,11 +1857,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1911,11 +1911,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -1965,11 +1965,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2019,11 +2019,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2073,11 +2073,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2127,11 +2127,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2181,11 +2181,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2235,11 +2235,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2289,11 +2289,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2343,11 +2343,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2397,11 +2397,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2451,11 +2451,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2505,11 +2505,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2559,11 +2559,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2613,11 +2613,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2667,11 +2667,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2721,11 +2721,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2775,11 +2775,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2829,11 +2829,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2883,11 +2883,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2937,11 +2937,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -2991,11 +2991,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3045,11 +3045,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3099,11 +3099,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3153,11 +3153,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3207,11 +3207,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3261,11 +3261,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3315,11 +3315,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3369,11 +3369,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3419,11 +3419,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3469,11 +3469,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3519,11 +3519,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3569,11 +3569,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3619,11 +3619,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3669,11 +3669,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3719,11 +3719,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3769,11 +3769,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3819,11 +3819,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3869,11 +3869,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3919,11 +3919,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -3969,11 +3969,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4019,11 +4019,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4069,11 +4069,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4119,11 +4119,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4169,11 +4169,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4219,11 +4219,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4269,11 +4269,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4319,11 +4319,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4369,11 +4369,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4419,11 +4419,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4469,11 +4469,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4519,11 +4519,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4569,11 +4569,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4619,11 +4619,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4669,11 +4669,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4719,11 +4719,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4769,11 +4769,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4819,11 +4819,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4869,11 +4869,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4919,11 +4919,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -4969,11 +4969,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5019,11 +5019,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5069,11 +5069,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5119,11 +5119,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5169,11 +5169,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5219,11 +5219,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5269,11 +5269,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5319,11 +5319,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5369,11 +5369,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5419,11 +5419,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5469,11 +5469,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5519,11 +5519,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5569,11 +5569,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5619,11 +5619,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5669,11 +5669,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5719,11 +5719,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5769,11 +5769,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5819,11 +5819,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5869,11 +5869,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5919,11 +5919,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -5969,11 +5969,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6019,11 +6019,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6069,11 +6069,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6119,11 +6119,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6169,11 +6169,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6219,11 +6219,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6269,11 +6269,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6319,11 +6319,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6369,11 +6369,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6419,11 +6419,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6469,11 +6469,11 @@
 			)
 			(property
 				(name "Sheetname")
-				(value "Root")
+				(value "keyboard61")
 			)
 			(property
 				(name "Sheetfile")
-				(value "finished.kicad_sch")
+				(value "keyboard61.kicad_sch")
 			)
 			(property
 				(name "ki_keywords")
@@ -6657,6 +6657,55 @@
 				(pin
 					(num "2")
 					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "RotaryEncoder_Switch")
+			(description "Rotary encoder, dual channel, incremental quadrate outputs, with switch")
+			(footprints
+				(fp "RotaryEncoder*Switch*")
+			)
+			(fields
+				(field
+					(name "Reference") "SW")
+				(field
+					(name "Value") "RotaryEncoder_Switch")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Rotary encoder, dual channel, incremental quadrate outputs, with switch")
+			)
+			(pins
+				(pin
+					(num "A")
+					(name "A")
+					(type "passive")
+				)
+				(pin
+					(num "B")
+					(name "B")
+					(type "passive")
+				)
+				(pin
+					(num "C")
+					(name "C")
+					(type "passive")
+				)
+				(pin
+					(num "S1")
+					(name "S1")
+					(type "passive")
+				)
+				(pin
+					(num "S2")
+					(name "S2")
 					(type "passive")
 				)
 			)
@@ -7454,6 +7503,39 @@
 		)
 		(net
 			(code "15")
+			(name "ENC_A")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "25")
+				(pinfunction "GPIO19_25")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "16")
+			(name "ENC_B")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "26")
+				(pinfunction "GPIO20_26")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "17")
+			(name "ENC_SW")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "27")
+				(pinfunction "GPIO21_27")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "18")
 			(name "GND")
 			(class "Default")
 			(node
@@ -7506,7 +7588,7 @@
 			)
 		)
 		(net
-			(code "16")
+			(code "19")
 			(name "Net-(D1-A)")
 			(class "Default")
 			(node
@@ -7523,7 +7605,7 @@
 			)
 		)
 		(net
-			(code "17")
+			(code "20")
 			(name "Net-(D2-A)")
 			(class "Default")
 			(node
@@ -7540,7 +7622,7 @@
 			)
 		)
 		(net
-			(code "18")
+			(code "21")
 			(name "Net-(D3-A)")
 			(class "Default")
 			(node
@@ -7557,7 +7639,7 @@
 			)
 		)
 		(net
-			(code "19")
+			(code "22")
 			(name "Net-(D4-A)")
 			(class "Default")
 			(node
@@ -7574,7 +7656,7 @@
 			)
 		)
 		(net
-			(code "20")
+			(code "23")
 			(name "Net-(D5-A)")
 			(class "Default")
 			(node
@@ -7591,7 +7673,7 @@
 			)
 		)
 		(net
-			(code "21")
+			(code "24")
 			(name "Net-(D6-A)")
 			(class "Default")
 			(node
@@ -7608,7 +7690,7 @@
 			)
 		)
 		(net
-			(code "22")
+			(code "25")
 			(name "Net-(D7-A)")
 			(class "Default")
 			(node
@@ -7625,7 +7707,7 @@
 			)
 		)
 		(net
-			(code "23")
+			(code "26")
 			(name "Net-(D8-A)")
 			(class "Default")
 			(node
@@ -7642,7 +7724,7 @@
 			)
 		)
 		(net
-			(code "24")
+			(code "27")
 			(name "Net-(D9-A)")
 			(class "Default")
 			(node
@@ -7659,7 +7741,7 @@
 			)
 		)
 		(net
-			(code "25")
+			(code "28")
 			(name "Net-(D10-A)")
 			(class "Default")
 			(node
@@ -7676,7 +7758,7 @@
 			)
 		)
 		(net
-			(code "26")
+			(code "29")
 			(name "Net-(D11-A)")
 			(class "Default")
 			(node
@@ -7693,7 +7775,7 @@
 			)
 		)
 		(net
-			(code "27")
+			(code "30")
 			(name "Net-(D12-A)")
 			(class "Default")
 			(node
@@ -7710,7 +7792,7 @@
 			)
 		)
 		(net
-			(code "28")
+			(code "31")
 			(name "Net-(D13-A)")
 			(class "Default")
 			(node
@@ -7727,7 +7809,7 @@
 			)
 		)
 		(net
-			(code "29")
+			(code "32")
 			(name "Net-(D14-A)")
 			(class "Default")
 			(node
@@ -7744,7 +7826,7 @@
 			)
 		)
 		(net
-			(code "30")
+			(code "33")
 			(name "Net-(D15-A)")
 			(class "Default")
 			(node
@@ -7761,7 +7843,7 @@
 			)
 		)
 		(net
-			(code "31")
+			(code "34")
 			(name "Net-(D16-A)")
 			(class "Default")
 			(node
@@ -7778,7 +7860,7 @@
 			)
 		)
 		(net
-			(code "32")
+			(code "35")
 			(name "Net-(D17-A)")
 			(class "Default")
 			(node
@@ -7795,7 +7877,7 @@
 			)
 		)
 		(net
-			(code "33")
+			(code "36")
 			(name "Net-(D18-A)")
 			(class "Default")
 			(node
@@ -7812,7 +7894,7 @@
 			)
 		)
 		(net
-			(code "34")
+			(code "37")
 			(name "Net-(D19-A)")
 			(class "Default")
 			(node
@@ -7829,7 +7911,7 @@
 			)
 		)
 		(net
-			(code "35")
+			(code "38")
 			(name "Net-(D20-A)")
 			(class "Default")
 			(node
@@ -7846,7 +7928,7 @@
 			)
 		)
 		(net
-			(code "36")
+			(code "39")
 			(name "Net-(D21-A)")
 			(class "Default")
 			(node
@@ -7863,7 +7945,7 @@
 			)
 		)
 		(net
-			(code "37")
+			(code "40")
 			(name "Net-(D22-A)")
 			(class "Default")
 			(node
@@ -7880,7 +7962,7 @@
 			)
 		)
 		(net
-			(code "38")
+			(code "41")
 			(name "Net-(D23-A)")
 			(class "Default")
 			(node
@@ -7897,7 +7979,7 @@
 			)
 		)
 		(net
-			(code "39")
+			(code "42")
 			(name "Net-(D24-A)")
 			(class "Default")
 			(node
@@ -7914,7 +7996,7 @@
 			)
 		)
 		(net
-			(code "40")
+			(code "43")
 			(name "Net-(D25-A)")
 			(class "Default")
 			(node
@@ -7931,7 +8013,7 @@
 			)
 		)
 		(net
-			(code "41")
+			(code "44")
 			(name "Net-(D26-A)")
 			(class "Default")
 			(node
@@ -7948,7 +8030,7 @@
 			)
 		)
 		(net
-			(code "42")
+			(code "45")
 			(name "Net-(D27-A)")
 			(class "Default")
 			(node
@@ -7965,7 +8047,7 @@
 			)
 		)
 		(net
-			(code "43")
+			(code "46")
 			(name "Net-(D28-A)")
 			(class "Default")
 			(node
@@ -7982,7 +8064,7 @@
 			)
 		)
 		(net
-			(code "44")
+			(code "47")
 			(name "Net-(D29-A)")
 			(class "Default")
 			(node
@@ -7999,7 +8081,7 @@
 			)
 		)
 		(net
-			(code "45")
+			(code "48")
 			(name "Net-(D30-A)")
 			(class "Default")
 			(node
@@ -8016,7 +8098,7 @@
 			)
 		)
 		(net
-			(code "46")
+			(code "49")
 			(name "Net-(D31-A)")
 			(class "Default")
 			(node
@@ -8033,7 +8115,7 @@
 			)
 		)
 		(net
-			(code "47")
+			(code "50")
 			(name "Net-(D32-A)")
 			(class "Default")
 			(node
@@ -8050,7 +8132,7 @@
 			)
 		)
 		(net
-			(code "48")
+			(code "51")
 			(name "Net-(D33-A)")
 			(class "Default")
 			(node
@@ -8067,7 +8149,7 @@
 			)
 		)
 		(net
-			(code "49")
+			(code "52")
 			(name "Net-(D34-A)")
 			(class "Default")
 			(node
@@ -8084,7 +8166,7 @@
 			)
 		)
 		(net
-			(code "50")
+			(code "53")
 			(name "Net-(D35-A)")
 			(class "Default")
 			(node
@@ -8101,7 +8183,7 @@
 			)
 		)
 		(net
-			(code "51")
+			(code "54")
 			(name "Net-(D36-A)")
 			(class "Default")
 			(node
@@ -8118,7 +8200,7 @@
 			)
 		)
 		(net
-			(code "52")
+			(code "55")
 			(name "Net-(D37-A)")
 			(class "Default")
 			(node
@@ -8135,7 +8217,7 @@
 			)
 		)
 		(net
-			(code "53")
+			(code "56")
 			(name "Net-(D38-A)")
 			(class "Default")
 			(node
@@ -8152,7 +8234,7 @@
 			)
 		)
 		(net
-			(code "54")
+			(code "57")
 			(name "Net-(D39-A)")
 			(class "Default")
 			(node
@@ -8169,7 +8251,7 @@
 			)
 		)
 		(net
-			(code "55")
+			(code "58")
 			(name "Net-(D40-A)")
 			(class "Default")
 			(node
@@ -8186,7 +8268,7 @@
 			)
 		)
 		(net
-			(code "56")
+			(code "59")
 			(name "Net-(D41-A)")
 			(class "Default")
 			(node
@@ -8203,7 +8285,7 @@
 			)
 		)
 		(net
-			(code "57")
+			(code "60")
 			(name "Net-(D42-A)")
 			(class "Default")
 			(node
@@ -8220,7 +8302,7 @@
 			)
 		)
 		(net
-			(code "58")
+			(code "61")
 			(name "Net-(D43-A)")
 			(class "Default")
 			(node
@@ -8237,7 +8319,7 @@
 			)
 		)
 		(net
-			(code "59")
+			(code "62")
 			(name "Net-(D44-A)")
 			(class "Default")
 			(node
@@ -8254,7 +8336,7 @@
 			)
 		)
 		(net
-			(code "60")
+			(code "63")
 			(name "Net-(D45-A)")
 			(class "Default")
 			(node
@@ -8271,7 +8353,7 @@
 			)
 		)
 		(net
-			(code "61")
+			(code "64")
 			(name "Net-(D46-A)")
 			(class "Default")
 			(node
@@ -8288,7 +8370,7 @@
 			)
 		)
 		(net
-			(code "62")
+			(code "65")
 			(name "Net-(D47-A)")
 			(class "Default")
 			(node
@@ -8305,7 +8387,7 @@
 			)
 		)
 		(net
-			(code "63")
+			(code "66")
 			(name "Net-(D48-A)")
 			(class "Default")
 			(node
@@ -8322,7 +8404,7 @@
 			)
 		)
 		(net
-			(code "64")
+			(code "67")
 			(name "Net-(D49-A)")
 			(class "Default")
 			(node
@@ -8339,7 +8421,7 @@
 			)
 		)
 		(net
-			(code "65")
+			(code "68")
 			(name "Net-(D50-A)")
 			(class "Default")
 			(node
@@ -8356,7 +8438,7 @@
 			)
 		)
 		(net
-			(code "66")
+			(code "69")
 			(name "Net-(D51-A)")
 			(class "Default")
 			(node
@@ -8373,7 +8455,7 @@
 			)
 		)
 		(net
-			(code "67")
+			(code "70")
 			(name "Net-(D52-A)")
 			(class "Default")
 			(node
@@ -8390,7 +8472,7 @@
 			)
 		)
 		(net
-			(code "68")
+			(code "71")
 			(name "Net-(D53-A)")
 			(class "Default")
 			(node
@@ -8407,7 +8489,7 @@
 			)
 		)
 		(net
-			(code "69")
+			(code "72")
 			(name "Net-(D54-A)")
 			(class "Default")
 			(node
@@ -8424,7 +8506,7 @@
 			)
 		)
 		(net
-			(code "70")
+			(code "73")
 			(name "Net-(D55-A)")
 			(class "Default")
 			(node
@@ -8441,7 +8523,7 @@
 			)
 		)
 		(net
-			(code "71")
+			(code "74")
 			(name "Net-(D56-A)")
 			(class "Default")
 			(node
@@ -8458,7 +8540,7 @@
 			)
 		)
 		(net
-			(code "72")
+			(code "75")
 			(name "Net-(D57-A)")
 			(class "Default")
 			(node
@@ -8475,7 +8557,7 @@
 			)
 		)
 		(net
-			(code "73")
+			(code "76")
 			(name "Net-(D58-A)")
 			(class "Default")
 			(node
@@ -8492,7 +8574,7 @@
 			)
 		)
 		(net
-			(code "74")
+			(code "77")
 			(name "Net-(D59-A)")
 			(class "Default")
 			(node
@@ -8509,7 +8591,7 @@
 			)
 		)
 		(net
-			(code "75")
+			(code "78")
 			(name "Net-(D60-A)")
 			(class "Default")
 			(node
@@ -8526,7 +8608,7 @@
 			)
 		)
 		(net
-			(code "76")
+			(code "79")
 			(name "Net-(D61-A)")
 			(class "Default")
 			(node
@@ -8543,7 +8625,7 @@
 			)
 		)
 		(net
-			(code "77")
+			(code "80")
 			(name "ROW0")
 			(class "Default")
 			(node
@@ -8638,7 +8720,7 @@
 			)
 		)
 		(net
-			(code "78")
+			(code "81")
 			(name "ROW1")
 			(class "Default")
 			(node
@@ -8733,7 +8815,7 @@
 			)
 		)
 		(net
-			(code "79")
+			(code "82")
 			(name "ROW2")
 			(class "Default")
 			(node
@@ -8822,7 +8904,7 @@
 			)
 		)
 		(net
-			(code "80")
+			(code "83")
 			(name "ROW3")
 			(class "Default")
 			(node
@@ -8905,7 +8987,7 @@
 			)
 		)
 		(net
-			(code "81")
+			(code "84")
 			(name "ROW4")
 			(class "Default")
 			(node
@@ -8964,7 +9046,7 @@
 			)
 		)
 		(net
-			(code "82")
+			(code "85")
 			(name "RUN")
 			(class "Default")
 			(node
@@ -8981,7 +9063,7 @@
 			)
 		)
 		(net
-			(code "83")
+			(code "86")
 			(name "unconnected-(U1-3V3-Pad36)")
 			(class "Default")
 			(node
@@ -8992,7 +9074,7 @@
 			)
 		)
 		(net
-			(code "84")
+			(code "87")
 			(name "unconnected-(U1-3V3_EN-Pad37)")
 			(class "Default")
 			(node
@@ -9003,7 +9085,7 @@
 			)
 		)
 		(net
-			(code "85")
+			(code "88")
 			(name "unconnected-(U1-ADC_VREF-Pad35)")
 			(class "Default")
 			(node
@@ -9014,7 +9096,7 @@
 			)
 		)
 		(net
-			(code "86")
+			(code "89")
 			(name "unconnected-(U1-AGND-Pad33)")
 			(class "Default")
 			(node
@@ -9022,39 +9104,6 @@
 				(pin "33")
 				(pinfunction "AGND_33")
 				(pintype "power_out+no_connect")
-			)
-		)
-		(net
-			(code "87")
-			(name "unconnected-(U1-GPIO19-Pad25)")
-			(class "Default")
-			(node
-				(ref "U1")
-				(pin "25")
-				(pinfunction "GPIO19_25")
-				(pintype "bidirectional+no_connect")
-			)
-		)
-		(net
-			(code "88")
-			(name "unconnected-(U1-GPIO20-Pad26)")
-			(class "Default")
-			(node
-				(ref "U1")
-				(pin "26")
-				(pinfunction "GPIO20_26")
-				(pintype "bidirectional+no_connect")
-			)
-		)
-		(net
-			(code "89")
-			(name "unconnected-(U1-GPIO21-Pad27)")
-			(class "Default")
-			(node
-				(ref "U1")
-				(pin "27")
-				(pinfunction "GPIO21_27")
-				(pintype "bidirectional+no_connect")
 			)
 		)
 		(net

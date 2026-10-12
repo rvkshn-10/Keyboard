@@ -19063,7 +19063,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(U1-GPIO19-Pad25)")
+			(net "ENC_A")
 			(uuid "9809d574-78a5-498a-ba21-3ffeec9bbee2")
 		)
 		(pad "26" thru_hole circle
@@ -19072,7 +19072,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(U1-GPIO20-Pad26)")
+			(net "ENC_B")
 			(uuid "fa57dffd-4733-4a31-9482-71eef2e46034")
 		)
 		(pad "27" thru_hole circle
@@ -19081,7 +19081,7 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net "unconnected-(U1-GPIO21-Pad27)")
+			(net "ENC_SW")
 			(uuid "a3bbdcdc-711f-48d4-9120-5ef28fb8ab97")
 		)
 		(pad "28" thru_hole custom

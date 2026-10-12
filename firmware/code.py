@@ -3,6 +3,8 @@ import board
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.keys import KC, KeyboardKey, make_key
 from kmk.modules.layers import Layers
+from kmk.modules.encoder import EncoderHandler
+from kmk.extensions.media_keys import MediaKeys
 from kmk.scanners import DiodeOrientation
 
 keyboard = KMKKeyboard()
@@ -13,6 +15,15 @@ keyboard.col_pins = (
 )
 keyboard.diode_orientation = DiodeOrientation.COL2ROW
 keyboard.modules.append(Layers())
+keyboard.extensions.append(MediaKeys())
+encoder_handler = EncoderHandler()
+# Case-mounted encoder. A/B to GP19/20; push switch to GP21; common to GND.
+encoder_handler.pins = ((board.GP19, board.GP20, board.GP21, False, 4),)
+encoder_handler.map = [
+    ((KC.VOLD, KC.VOLU, KC.MUTE),),
+    ((KC.VOLD, KC.VOLU, KC.MUTE),),
+]
+keyboard.modules.append(encoder_handler)
 make_key(names=('APP',), constructor=KeyboardKey, code=0x65)
 
 keyboard.keymap = [

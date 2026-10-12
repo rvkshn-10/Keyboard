@@ -1,0 +1,8 @@
+{
+  "clockwise_transition_sequence": "pass",
+  "counterclockwise_transition_sequence": "pass",
+  "partial_detent_reversal": "pass",
+  "both_layer_volume_maps": "pass",
+  "consumer_control_enabled": "pass",
+  "hardware_tested": false
+}

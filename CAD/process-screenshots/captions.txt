@@ -1,0 +1,55 @@
+1. Initial print upload
+01-uploaded-models.jpg
+Uploaded the base, plate and individual spacer to inspect the vendor quote. The tiny individual spacer was later replaced by a connected pack.
+
+2. Check printing limits
+02-fdm-size-check.jpg
+The selected PLA service rejected the full-width parts and tiny spacer. This led to checking resin and combining the spacers.
+
+3. Assembly imported into Fusion
+03-fusion-imported-assembly.png
+Opened the STEP assembly in Fusion to inspect the case, switch plate and reference envelopes together.
+
+4. Top alignment inspection
+04-assembly-top.png
+Checked the key openings, stabilizer slots and upper-right knob position from above.
+
+5. Underside inspection
+05-assembly-underside.png
+Viewed the bottom openings and cable path. Actual plug insertion and bend clearance still need a physical fit check.
+
+6. Isolate the base
+06-base-mounting-bosses.png
+Hid the other components to inspect the four PCB mounting bosses and case walls.
+
+7. Inspect USB access
+07-base-usb-access.png
+Viewed the floor opening and channel intended for the inward-facing Pico USB connection.
+
+8. Inspect the switch plate
+08-switch-plate-openings.png
+Isolated the plate to check all 61 switch openings, stabilizer clearances and encoder mounting hole.
+
+9. Inspect encoder support
+09-plate-encoder-support.png
+Viewed the plate underside and support walls around the case-mounted encoder. Delivered hardware dimensions need a trial fit.
+
+10. Check PCB height reference
+10-pcb-envelope.png
+Displayed the PCB envelope inside the base to inspect the planned mounting height. This is an envelope, not a detailed controller or switch model.
+
+11. Inspect knob and encoder envelopes
+11-encoder-knob-envelopes.png
+Isolated the simple reference bodies used to reserve room for the knob and encoder. They are not manufacturer models.
+
+12. Restore the assembly
+12-final-assembly.png
+Restored the components and inspected the enclosure from the opposite isometric view.
+
+13. Revised printing quote
+14-final-jlc3dp-quote.jpg
+Uploaded the revised four-spacer pack with the full base and plate. The resin quote totals $19.61 before shipping and tax.
+
+14. Complete quote and shipping
+15-print-quote-full.jpg
+Captured all three items: base $15.87, plate $3.42, spacer pack $0.32, plus $12.67 estimated shipping. No order was placed.

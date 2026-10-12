@@ -5,7 +5,8 @@ keyboard61-enclosure.step is the assembly for Fusion, in millimetres.
 base.step and switch-plate.step are the actual manufactured/printed solids.
 PCB, knob and encoder solids inside the assembly are reference envelopes.
 Do not print the assembly or the case-preview.stl.
-For a paid service: print base.stl x1, switch-plate.stl x1, plate-spacer.stl x4.
+For the quoted paid service: print base.stl x1, switch-plate.stl x1,
+plate-spacer-pack.stl x1. Trim its sacrificial sprues to obtain four spacers.
 For a 256mm printer: print base-left/right and switch-plate-left/right x1 each,
 join-strap.stl x2, plate-spacer.stl x4. Join base halves with four M3 bolts and nuts.
 Support the underside uniformly when using protruding joining straps.

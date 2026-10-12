@@ -1,0 +1,9 @@
+Week 2 pricing, USD, 2026-10-12
+Parts including quoted printing: $95.68
+JLC3DP shipping estimate: $12.67
+Known subtotal including that shipping: $108.35
+Tax and Amazon/Adafruit shipping are additional and unquoted.
+Older personal-item prices were checked 2026-10-07 and need checkout verification.
+This exceeds $65; do not submit it as a $65 all-in budget.
+Printing: white SLA 9600 resin, general sanding; base x1, plate x1, spacer pack x1.
+Vendor review and physical fit checks remain pending. No order placed.

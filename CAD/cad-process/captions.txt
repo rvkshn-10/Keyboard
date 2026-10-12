@@ -1,0 +1,31 @@
+1. Import the KiCad STEP
+01-import-pcb.png
+Imported the actual KiCad PCB and available component models into Fusion. It initially retained the KiCad origin, outside the case.
+
+2. Align the PCB
+02-align-pcb-to-base.png
+Translated the PCB into the case coordinate system, matching the board position used for the four mounting bosses.
+
+3. Set mounting height
+03-pcb-mounting-height.png
+Positioned the PCB underside at 21mm above the case floor origin, with the plate hidden to inspect the placement.
+
+4. Inspect underside access
+04-pico-usb-access.png
+Checked the imported Pico against the USB pocket and BOOTSEL opening. This is a visual inspection; plug insertion and cable bending remain untested.
+
+5. Restore the switch plate
+05-fit-switch-plate.png
+Displayed the plate above the PCB to inspect the key-opening alignment. Switch and keycap models are absent from this KiCad export.
+
+6. Inspect the combined assembly
+06-complete-pcb-case.png
+Viewed the case, actual PCB and plate together. The knob and encoder remain simplified reference envelopes.
+
+7. Add four plate spacers
+07-install-plate-spacers.png
+Imported four spacer solids at the mounting-hole positions, starting at the planned PCB top height of 22.6mm. They provide the 3.5mm plate gap.
+
+8. Restore the assembled model
+08-assembled-with-spacers.png
+Restored the plate and exported the updated Fusion and STEP assemblies with PCB and spacers included. Physical fit remains unverified.

@@ -1,0 +1,5 @@
+Simplified generic keycap envelopes generated with CadQuery, not manufacturer models.
+1U: 18x18mm base, 15x15mm top, 8mm high. 6.25U: 118.0125mm base width.
+No MX cross sockets, row-specific profiles, legends or verified switch travel. Do not print these as functional keycaps.
+Spacebar support markers are nominal +/-50mm references, not actual stabilizer mechanisms.
+Layout uses actual PCB switch centers. Physical cap/stabilizer fit remains untested.

@@ -1,0 +1,39 @@
+1. Inspect a downloaded switch model
+01-downloaded-switch-model.png
+Downloaded and inspected the Acheron MX-compatible model. This is a substitute for the selected Gateron switch, not its exact manufacturer CAD.
+
+2. Reduce the case height
+02-thin-shell.png
+Generated a shell with a 2mm floor and lower walls, reducing case height from 27.6mm to 17.1mm. The wider right strip reserves space for a portrait screen.
+
+3. Add PCB mounting bosses
+03-mounting-bosses.png
+Added the four mounting bosses at the PCB hole coordinates. PCB underside is now 10.5mm above the origin. The slim version requires directly soldered Pico headers instead of tall sockets.
+
+4. Cut controller access openings
+04-usb-access.png
+Added the underside USB pocket, cable channel, BOOTSEL and reset openings to the thinner base. Actual cable insertion still needs a fit check.
+
+5. Cut the key and stabilizer openings
+05-switch-openings.png
+Generated 61 switch openings and stabilizer clearance slots in the 1.5mm plate.
+
+6. Add the upper-right knob mount
+06-encoder-mount.png
+Added the encoder mounting hole and underside support walls. Exact Adafruit encoder fit remains unverified.
+
+7. Reserve the tall portrait display
+07-oled-window.png
+Replaced the tiny OLED idea with a 44.8 by 59.2mm window below the knob. The bottom margin is 17.2mm and the gap to the knob is 13.6mm. The TFT body is a dimensional envelope.
+
+8. Place the downloaded switch models
+08-switches-installed.png
+Placed 61 instances at the PCB switch centers. These generic MX models help inspect the assembly; exact housing clearances are still unverified.
+
+9. Engrave the keycap legends
+09-keycaps-installed.png
+Generated recessed legends 0.35mm deep in the generic keycap CAD. These are reference keycaps without functional MX mounting sockets; purchased keycaps are not physically modified.
+
+10. Assemble the revised keyboard
+10-complete-slim-assembly.png
+Combined the slim case, KiCad PCB, downloaded switch and encoder substitute models, engraved keycap references, spacers and portrait TFT envelope in Fusion.

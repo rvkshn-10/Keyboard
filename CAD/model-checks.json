@@ -1,31 +1,33 @@
 {
-  "base": {
-    "volume_mm3": 163825.59530419414,
-    "solid_count": 1
-  },
-  "switch-plate": {
-    "volume_mm3": 33705.80602364125,
-    "solid_count": 1
-  },
-  "join-strap": {
-    "volume_mm3": 1124.6820840036107,
-    "solid_count": 1
-  },
-  "case_dimensions_mm": [
-    333.0,
-    107.0,
-    27.6
+  "old_case_height_mm": 27.6,
+  "new_case_height_mm": 17.1,
+  "reduction_percent": 38.04,
+  "outside_mm": [
+    356.0,
+    112.0,
+    17.1
   ],
-  "switch_openings": 61,
-  "stabilizer_clearances": 10,
-  "pcb_bottom_z_mm": 21.0,
-  "pcb_top_z_mm": 22.6,
-  "plate_bottom_z_mm": 26.1,
-  "panel_encoder_hole_diameter_mm": 7.2,
-  "printed_volume_mm3": 200056.86436620334,
-  "solid_PLA_mass_g": 248.07051181409213,
-  "PLA_mass_with_15pct_allowance_g": 285.28108858620595,
-  "cost_at_20_USD_per_kg": 5.705621771724119,
-  "cost_at_25_USD_per_kg": 7.1320272146551495,
-  "status": "Prototype: actual switch, stabilizer, encoder, plug, pin and print tolerances require fit checks. Reference bodies are envelopes, not manufacturer models."
+  "keycap_reference_top_mm": 31.5,
+  "pcb_bottom_mm": 10.5,
+  "PCB_top_mm": 12.1,
+  "plate_bottom_mm": 15.6,
+  "floor_mm": 2,
+  "Pico_model_floor_clearance_mm": 1.9555,
+  "controller_mount": "Direct-solder existing Pico H headers; no 8.5mm female sockets. Trim exposed header tails flush after soldering; trial fit required.",
+  "display_candidate": "ShillehTek AA317 2.8-inch ILI9341 SPI TFT, $10.99 before tax/shipping, checked 2026-10-13. User relaxed original $8 cap.",
+  "display_window_mm": [
+    44.8,
+    59.2
+  ],
+  "display_window_bottom_buffer_mm": 17.2,
+  "display_window_knob_buffer_mm": 13.6,
+  "prototype_limitations": [
+    "MX model is generic, not Gateron Milky Yellow Pro V2",
+    "TFT envelope is modeled from vendor dimensions, not downloaded exact CAD",
+    "Encoder model is ALPS EC11 proxy, not Adafruit 377",
+    "Keycaps are generic envelopes, not selected XVX OEM",
+    "WS stabilizer exact CAD unavailable; existing clearance references retained",
+    "Actual Tab/Q Pico-pin interference and switch travel unverified",
+    "Printing must be requoted; old $19.61 quote does not apply"
+  ]
 }

@@ -24,6 +24,11 @@ encoder_handler.map = [
     ((KC.VOLD, KC.VOLU, KC.MUTE),),
 ]
 keyboard.modules.append(encoder_handler)
+# Enable after wiring the portrait TFT and installing its CircuitPython libraries.
+ENABLE_TFT = False
+if ENABLE_TFT:
+    from tft_setup import KeyboardStatusDisplay
+    keyboard.extensions.append(KeyboardStatusDisplay())
 make_key(names=('APP',), constructor=KeyboardKey, code=0x65)
 
 keyboard.keymap = [

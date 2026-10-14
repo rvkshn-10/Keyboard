@@ -1,1 +1,6 @@
-{"date":"2026-10-12","price":19.61,"shipping":12.67,"material":"SLA 9600 Resin, white, general sanding","parts":[{"file":"base.stl","quantity":1,"price":15.87},{"file":"switch-plate.stl","quantity":1,"price":3.42},{"file":"plate-spacer-pack.stl","quantity":1,"price":0.32}],"status":"Website estimate; tax excluded, shipping estimated, vendor review pending; no order placed"}
+{
+  "date": "2026-10-13",
+  "status": "Requote required; previous enclosure quote obsolete",
+  "price": null,
+  "shipping": null
+}

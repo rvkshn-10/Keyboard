@@ -1,0 +1,24 @@
+ShillehTek AA317 2.8-inch ILI9341 SPI TFT, 240x320 portrait status display.
+Price checked 2026-10-13: $10.99 before shipping and tax.
+Vendor https://shillehtek.com/products/2-8-spi-tft-lcd-touch-screen-module-240x320-ili9341-for-arduino
+
+Pico wiring, case-mounted insulated wires, no new keyboard PCB traces:
+VCC -> 3V3(OUT), physical pad36; GND -> ground.
+SCK -> GP26/pad31; SDI(MOSI) -> GP27/pad32.
+DC -> GP22/pad29; CS -> GP28/pad34.
+RESET -> 3V3 (software reset used); LED -> 3V3 (always-on backlight).
+Tie unused T_CS and SD_CS high to 3V3 so their controllers stay deselected.
+SDO(MISO), T_CLK, T_DIN, T_DO and T_IRQ remain unconnected.
+Touch and SD are not supported by this setup. All logic must stay at 3.3V.
+Use existing jumper-wire pack. Check delivered pin labels rather than assuming order.
+These previously-unused GPIO connections are documented here but are not yet
+included in the main schematic. Do not mistake them for fabricated PCB traces.
+
+Install matching CircuitPython libraries in CIRCUITPY/lib:
+adafruit_ili9341 and adafruit_display_text, with their bundle dependencies.
+Use CircuitPython 9 or later with fourwire support. Copy tft_setup.py next to code.py.
+Set ENABLE_TFT=True after wiring and installing dependencies, then reboot.
+The display shows the active layer and knob instructions. Standard USB keyboard
+reports do not provide the PC's actual volume percentage, so none is displayed.
+Firmware syntax and configuration can be checked on desktop; actual display,
+power-on reset, orientation and refresh timing require a physical hardware test.

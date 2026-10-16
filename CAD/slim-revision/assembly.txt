@@ -1,0 +1,7 @@
+Current generated model files
+
+keyboard61-slim-assembly.step is the current complete CAD assembly export. It contains the 61-key keyboard, revised case, Pico/PCB envelope, portrait AA317 display envelope, encoder proxy, and generic keycaps with engraved legends and MX cross sockets.
+
+mx-stem-fit-gauge.step and mx-stem-fit-gauge.stl contain a three-clearance fit gauge. Print and check the actual switches before printing all keycaps.
+
+The files are generated CAD references. Hardware fit, key travel, electrical behavior, and manufacturing tolerances have not been verified physically. See sources.txt and model-checks.json.

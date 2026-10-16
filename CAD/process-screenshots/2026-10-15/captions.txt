@@ -1,0 +1,9 @@
+October 15 CAD and schematic captures
+
+01-display-dimensions.png — Manufacturer mechanical drawing used to size the display envelope.
+02-display-fit-in-assembly.png — Fusion assembly screenshot with display in the portrait opening.
+03-kicad-tft-wiring-erc.png — KiCad schematic export after the TFT connector wiring was added; ERC reports zero violations.
+04-keycap-legends.png — Top view of recessed key legends.
+05-mx-sockets.png — Bottom view of nominal MX cross sockets and stabilizer sockets.
+
+These show CAD design work, not physical hardware tests. See index.html for the image gallery and sources.txt for assumptions and fit limitations.

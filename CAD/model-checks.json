@@ -14,19 +14,135 @@
   "floor_mm": 2,
   "Pico_model_floor_clearance_mm": 1.9555,
   "controller_mount": "Direct-solder existing Pico H headers; no 8.5mm female sockets. Trim exposed header tails flush after soldering; trial fit required.",
-  "display_candidate": "ShillehTek AA317 2.8-inch ILI9341 SPI TFT, $10.99 before tax/shipping, checked 2026-10-13. User relaxed original $8 cap.",
+  "display_candidate": "ShillehTek AA317 2.8-inch ILI9341 SPI TFT, $10.99 before tax/shipping, checked 2026-10-13.",
+  "display_board_mm": [
+    50,
+    86,
+    1.6
+  ],
+  "display_hole_pitch_mm": [
+    44,
+    76
+  ],
+  "display_hole_centers_mm": [
+    [
+      305.0,
+      9.0
+    ],
+    [
+      349.0,
+      9.0
+    ],
+    [
+      305.0,
+      85.0
+    ],
+    [
+      349.0,
+      85.0
+    ]
+  ],
+  "display_face_top_mm": 16.9,
+  "display_header_tip_z_mm": 4.12,
+  "display_header_to_floor_clearance_mm": 2.12,
   "display_window_mm": [
     44.8,
     59.2
   ],
+  "display_active_area_mm": [
+    43.2,
+    57.6
+  ],
   "display_window_bottom_buffer_mm": 17.2,
   "display_window_knob_buffer_mm": 13.6,
+  "mx_socket_nominal_mm": {
+    "cross": 4.1,
+    "arm_width": 1.17,
+    "depth": 3.8,
+    "fit_clearance_each_side": 0.1
+  },
+  "mx_stabilizer_socket_count": 10,
+  "stabilizer_socket_positions": [
+    {
+      "key": "Enter",
+      "offset_mm": [
+        -11.9,
+        -0.62
+      ]
+    },
+    {
+      "key": "Enter",
+      "offset_mm": [
+        11.9,
+        -0.62
+      ]
+    },
+    {
+      "key": "LShift",
+      "offset_mm": [
+        -11.9,
+        -0.62
+      ]
+    },
+    {
+      "key": "LShift",
+      "offset_mm": [
+        11.9,
+        -0.62
+      ]
+    },
+    {
+      "key": "Backspace",
+      "offset_mm": [
+        -11.9,
+        -0.62
+      ]
+    },
+    {
+      "key": "Backspace",
+      "offset_mm": [
+        11.9,
+        -0.62
+      ]
+    },
+    {
+      "key": "RShift",
+      "offset_mm": [
+        -11.9,
+        -0.62
+      ]
+    },
+    {
+      "key": "RShift",
+      "offset_mm": [
+        11.9,
+        -0.62
+      ]
+    },
+    {
+      "key": "Space",
+      "offset_mm": [
+        -50.0,
+        -0.62
+      ]
+    },
+    {
+      "key": "Space",
+      "offset_mm": [
+        50.0,
+        -0.62
+      ]
+    }
+  ],
+  "keycap_count": 61,
   "prototype_limitations": [
+    "TFT model comes from manufacturer dimensional drawing, not delivered-part inspection",
+    "TFT header is modeled with a 2.12mm nominal floor gap; print tolerance and actual pin orientation unverified",
+    "MX sockets use nominal Cherry dimensions plus 0.10mm per-side print clearance; print the 3-size gauge and test actual Gateron switches",
     "MX model is generic, not Gateron Milky Yellow Pro V2",
-    "TFT envelope is modeled from vendor dimensions, not downloaded exact CAD",
     "Encoder model is ALPS EC11 proxy, not Adafruit 377",
-    "Keycaps are generic envelopes, not selected XVX OEM",
-    "WS stabilizer exact CAD unavailable; existing clearance references retained",
+    "Keycap outer envelopes remain generic and need shape/feel testing",
+    "WS stabilizer exact CAD unavailable; actual installed stabilizer compatibility unverified",
     "Actual Tab/Q Pico-pin interference and switch travel unverified",
     "Printing must be requoted; old $19.61 quote does not apply"
   ]

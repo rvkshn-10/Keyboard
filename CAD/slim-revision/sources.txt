@@ -12,3 +12,5 @@ MX geometry reference: https://github.com/nicola-sorace/custom-keycap-generator/
 Assembly: the case is 356 x 112 x 17.1 mm. CAD estimates 2.12 mm between the TFT header tips and case floor and 1.96 mm Pico-model clearance. Those margins are small and depend on real module orientation, trimmed pins, print tolerances, wiring, and the selected switch/stabilizer models. Q/Tab clearance, key travel, cable access and display mounting remain physical fit checks.
 
 Current screenshots: ../process-screenshots/2026-10-15/index.html
+
+KiCad PCB interface, 2026-10-15: synchronized the TFT control nets to Pico pins/pads (TFT_DC=U1.29, TFT_SCK=U1.31, TFT_MOSI=U1.32, TFT_CS=U1.34, plus 3V3 and GND). The display is case-mounted outside the keyboard PCB outline and uses a short wire harness; its four mounting holes are supported by the case, so no TFT mounting holes or connector footprint were added to the crowded keyboard PCB. Board DRC: 0 violations. Physical harness and mounting still need test fit.

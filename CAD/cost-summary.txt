@@ -1,1 +1,22 @@
-Known parts subtotal $87.06 including $10.99 TFT. Printing, tax and shipping unquoted. Older personal-item prices need checkout verification.
+Keyboard61 cost snapshot — USD — 2026-10-15
+
+Known parts subtotal: $130.68 before shipping, tax, and enclosure printing.
+
+Planned Week 1 / Hack Club list:
+Keyboard PCB, batch of 5: $31.15 (old estimate for a 295 x 168 mm board; revised PCB is 295.05 x 100.05 mm, so this needs a new JLCPCB quote)
+onsemi 1N4148 DO-35, qty 61: $2.57 ($0.0422 each at DigiKey's 50-piece tier)
+Raspberry Pi Pico H: $5.00
+Pico female sockets: $0.95
+USB cable: $3.95
+Parts subtotal: $43.62
+Using the existing $20 shipping/tax placeholder gives $63.62, leaving $1.38 of the $65 cap. The $20 is an estimate, not a current combined checkout quote. Re-quote the smaller PCB and confirm each cart before submitting.
+
+Personal parts subtotal: $87.06 before tax/shipping.
+Switches $19.99; keycaps $13.99; stabilizers $21.99; reset-button pack $4.66; M3 hardware kit $6.99; volume encoder $4.50; jumper wires $3.95; AA317 TFT display $10.99.
+Amazon prices for switches, keycaps, stabilizers, reset button, and M3 kit were last checked 2026-10-07 and need checkout verification. DigiKey Pico/socket/cable and Adafruit encoder/wire prices were verified in vendor listings on 2026-10-15. ShillehTek currently lists the TFT for $10.99 before shipping/tax.
+
+Paid enclosure printing: not priced. The previous $19.61 JLC3DP quote was for earlier geometry and should not be used; quote the current base, plate, and spacer files.
+
+Combined parts subtotal: $130.68. Adding only the old $20 shipping/tax placeholder yields $150.68 before personal-order shipping/tax and printing. This is a planning estimate, not a final all-in price. No purchase was placed.
+
+Prices and links are recorded in BOM.md, bom.csv, and CAD/bom.csv. PCB price and print price are the main outstanding quote items.

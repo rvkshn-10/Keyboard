@@ -1,6 +1,6 @@
 """Slim Keyboard61 prototype; mm. Downloaded models are explicitly proxies."""
 from pathlib import Path
-import cadquery as cq,json,re
+import cadquery as cq,json,re,math
 CADROOT=Path(__file__).resolve().parent.parent
 ROOT=CADROOT.parent
 OUT=Path(__file__).resolve().parent; MODELS=OUT/'vendor-models';OUT.mkdir(exist_ok=True)
@@ -109,13 +109,39 @@ for pin in header:tft=tft.union(pin)
 export(tft,'TFT-module-envelope')
 encoder=cq.importers.importStep(str(MODELS/'alps-ec11-proxy.stp')).rotate((0,0,0),(1,0,0),180).translate((327.21,98.821,-4.7))
 encoder=encoder.newObject([encoder.val().fix()])
-knob=cyl(327,99,PB+3,9,13.5)
+# Functional printed knob for the Adafruit 377 / Bourns PEC11 encoder. The
+# shaft is a 6 mm D-shaft; this prototype socket uses a small FDM clearance.
+# The knob sits just above the plate and has a 14.8 mm deep shaft socket,
+# enough engagement to rotate and to follow the encoder shaft when pressed.
+knob_z=PB+PT+0.8
+knob=(cq.Workplane('XY').circle(9).extrude(1.35)
+      .union(cq.Workplane('XY').workplane(offset=1.35).circle(8.2)
+             .workplane(offset=15.65).circle(8.55).loft()))
+# 24 short grip flutes, kept shallow to leave a durable wall around the socket.
+for i in range(24):
+    a=2*math.pi*i/24
+    gx,gy=8.52*math.cos(a),8.52*math.sin(a)
+    groove=cq.Workplane('XY').center(gx,gy).circle(.42).extrude(16.2).translate((0,0,.7))
+    knob=knob.cut(groove)
+# D socket: 6.2 mm round portion with the flat 2.3 mm from center.
+# This matches the encoder's nominal 6 mm shaft while allowing print clearance.
+d_bore=cq.Workplane('XY').circle(3.1).extrude(14.4)
+d_cut=cq.Workplane('XY').box(20,10,14.4,centered=(True,False,False)).translate((0,2.3,0))
+knob=knob.cut(d_bore.cut(d_cut))
+# Recessed arrow on top marks the volume-up direction; button press is axial.
+arrow=(cq.Workplane('XY').polyline([(-.42,1.2),(.42,1.2),(.42,5.1),(1.35,5.1),
+                                    (0,7.0),(-1.35,5.1),(-.42,5.1)])
+       .close().extrude(.45).translate((0,0,16.55)))
+knob=knob.cut(arrow)
+assert knob.val().isValid(), 'functional rotary knob'
+export(knob,'functional-volume-knob',True)
+knob=knob.translate((327,99,knob_z))
 spacers=cq.Compound.makeCompound([cyl(x,y,TOP,3,3.5).cut(cyl(x,y,TOP-1,1.65,6)).val() for x,y in geo['holes']])
 assembly=cq.Assembly(name='Keyboard61-slim-TFT-prototype')
-for n,obj,c in [('base',base,(.12,.15,.18)),('plate',plate,(.18,.23,.27)),('pcb',pcb,(.1,.45,.2)),('keycaps',caps,(.83,.86,.88)),('TFT-AA317-envelope',tft,(.03,.06,.09)),('encoder-ALPS-proxy',encoder,(.65,.65,.65)),('knob-reference',knob,(.1,.1,.1)),('plate-spacers',spacers,(.65,.65,.65))]:assembly.add(obj,name=n,color=cq.Color(*c))
+for n,obj,c in [('base',base,(.12,.15,.18)),('plate',plate,(.18,.23,.27)),('pcb',pcb,(.1,.45,.2)),('keycaps',caps,(.83,.86,.88)),('TFT-AA317-envelope',tft,(.03,.06,.09)),('encoder-ALPS-proxy',encoder,(.65,.65,.65)),('functional-volume-knob',knob,(.1,.1,.1)),('plate-spacers',spacers,(.65,.65,.65))]:assembly.add(obj,name=n,color=cq.Color(*c))
 assembly.add(switches)
 assembly.save(str(OUT/'keyboard61-slim-assembly.step'))
 export(tft,'tft-aa317-positioned');export(encoder,'encoder-positioned')
-metrics={'old_case_height_mm':27.6,'new_case_height_mm':17.1,'reduction_percent':38.04,'outside_mm':[W,D,17.1],'keycap_reference_top_mm':31.5,'pcb_bottom_mm':10.5,'PCB_top_mm':12.1,'plate_bottom_mm':15.6,'floor_mm':2,'Pico_model_floor_clearance_mm':1.9555,'controller_mount':'Direct-solder existing Pico H headers; no 8.5mm female sockets. Trim exposed header tails flush after soldering; trial fit required.','display_candidate':'ShillehTek AA317 2.8-inch ILI9341 SPI TFT, $10.99 before tax/shipping, checked 2026-10-13.','display_board_mm':[50,86,1.6],'display_hole_pitch_mm':[44,76],'display_hole_centers_mm':TFT_HOLES,'display_face_top_mm':TFT_FACE_TOP,'display_header_tip_z_mm':4.12,'display_header_to_floor_clearance_mm':2.12,'display_window_mm':[44.8,59.2],'display_active_area_mm':[43.2,57.6],'display_window_bottom_buffer_mm':17.2,'display_window_knob_buffer_mm':13.6,'mx_socket_nominal_mm':{'cross':MX_CROSS,'arm_width':MX_ARM,'depth':MX_DEPTH,'fit_clearance_each_side':MX_CLEARANCE},'mx_stabilizer_socket_count':len(socket_report),'stabilizer_socket_positions':socket_report,'keycap_count':len(cap_solids),'prototype_limitations':['TFT model comes from manufacturer dimensional drawing, not delivered-part inspection','TFT header is modeled with a 2.12mm nominal floor gap; print tolerance and actual pin orientation unverified','MX sockets use nominal Cherry dimensions plus 0.10mm per-side print clearance; print the 3-size gauge and test actual Gateron switches','MX model is generic, not Gateron Milky Yellow Pro V2','Encoder model is ALPS EC11 proxy, not Adafruit 377','Keycap outer envelopes remain generic and need shape/feel testing','WS stabilizer exact CAD unavailable; actual installed stabilizer compatibility unverified','Actual Tab/Q Pico-pin interference and switch travel unverified','Printing must be requoted; old $19.61 quote does not apply']}
+metrics={'old_case_height_mm':27.6,'new_case_height_mm':17.1,'reduction_percent':38.04,'outside_mm':[W,D,17.1],'keycap_reference_top_mm':31.5,'pcb_bottom_mm':10.5,'PCB_top_mm':12.1,'plate_bottom_mm':15.6,'floor_mm':2,'Pico_model_floor_clearance_mm':1.9555,'controller_mount':'Direct-solder existing Pico H headers; no 8.5mm female sockets. Trim exposed header tails flush after soldering; trial fit required.','display_candidate':'ShillehTek AA317 2.8-inch ILI9341 SPI TFT, $10.99 before tax/shipping, checked 2026-10-13.','display_board_mm':[50,86,1.6],'display_hole_pitch_mm':[44,76],'display_hole_centers_mm':TFT_HOLES,'display_face_top_mm':TFT_FACE_TOP,'display_header_tip_z_mm':4.12,'display_header_to_floor_clearance_mm':2.12,'display_window_mm':[44.8,59.2],'display_active_area_mm':[43.2,57.6],'display_window_bottom_buffer_mm':17.2,'display_window_knob_buffer_mm':13.6,'encoder_knob':{'shaft_type':'6 mm D-shaft, Adafruit 377 / Bourns PEC11','socket_diameter_mm':6.2,'socket_flat_offset_mm':2.3,'socket_depth_mm':14.4,'knob_bottom_gap_mm':0.8,'encoder_switch_travel_mm':0.5,'knob_max_diameter_mm':18,'knob_height_mm':17.0,'grip_flutes':24,'function':'turn volume; axial push engages encoder switch for mute','fit_status':'CAD designed to nominal shaft dimensions; print fit and button travel not physically verified'},'mx_socket_nominal_mm':{'cross':MX_CROSS,'arm_width':MX_ARM,'depth':MX_DEPTH,'fit_clearance_each_side':MX_CLEARANCE},'mx_stabilizer_socket_count':len(socket_report),'stabilizer_socket_positions':socket_report,'keycap_count':len(cap_solids),'prototype_limitations':['TFT model comes from manufacturer dimensional drawing, not delivered-part inspection','TFT header is modeled with a 2.12mm nominal floor gap; print tolerance and actual pin orientation unverified','MX sockets use nominal Cherry dimensions plus 0.10mm per-side print clearance; print the 3-size gauge and test actual Gateron switches','MX model is generic, not Gateron Milky Yellow Pro V2','Encoder model is ALPS EC11 proxy, not Adafruit 377','Knob socket uses nominal D-shaft dimensions and still needs a printed fit/button-travel test','Keycap outer envelopes remain generic and need shape/feel testing','WS stabilizer exact CAD unavailable; actual installed stabilizer compatibility unverified','Actual Tab/Q Pico-pin interference and switch travel unverified','Printing must be requoted; old $19.61 quote does not apply']}
 (OUT/'model-checks.json').write_text(json.dumps(metrics,indent=2))
 print(json.dumps(metrics,indent=2))

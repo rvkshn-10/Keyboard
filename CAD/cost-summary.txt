@@ -20,3 +20,9 @@ Paid enclosure printing: not priced. The previous $19.61 JLC3DP quote was for ea
 Combined parts subtotal: $130.68. Adding only the old $20 shipping/tax placeholder yields $150.68 before personal-order shipping/tax and printing. This is a planning estimate, not a final all-in price. No purchase was placed.
 
 Prices and links are recorded in BOM.md, bom.csv, and CAD/bom.csv. PCB price and print price are the main outstanding quote items.
+
+Week 2 CAD print quote — 2026-10-16
+JLC3DP currently shows the base ($10.63), switch plate ($3.66), spacer pack ($0.32), a PA12-HP nylon knob ($1.25), and a second copy of the knob in resin ($0.32). Items total $16.18; shipping estimate is $11.26; pre-tax total is $27.44. The second knob is an optional material comparison copy and should be confirmed before ordering. No order was placed. See CAD/print-quote.json.
+
+Week 2 $65 planning draft — USD
+Hack Club funding request: the JLC3DP print set ($16.18) plus its live shipping estimate ($11.26) totals $27.44 before checkout tax. Personal purchases for the case electronics: Bourns PEC11R-4215F-S0024 encoder $2.91, Adafruit 1955 jumper wires $3.95, and ShillehTek AA317 TFT $10.99. DigiKey shipping starts at $4.99; ShillehTek shipping is estimated at $5.99 because the checkout rate is not shown on the product page. Tax reserve $4.50 and possible-tariff reserve $2.00. Combined planning total: $62.77, leaving $2.23 under the $65 cap. The Folsom CA 95630 reference tax rate is 7.75%; final shipping, taxes, tariffs, and item availability must be confirmed in vendor carts. The 70-pack keyboard switches, keycaps, stabilizers, reset button, and M3 kit are not included in this Week 2 budget; adding them would exceed the cap. The project submission BOM draft is CAD/week2-bom-draft.csv. No purchase was placed.

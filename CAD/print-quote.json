@@ -1,6 +1,16 @@
 {
-  "date": "2026-10-13",
-  "status": "Requote required; previous enclosure quote obsolete",
-  "price": null,
-  "shipping": null
+  "date": "2026-10-16",
+  "status": "Current JLC3DP quote shown in browser; quote only, no order placed",
+  "items": [
+    {"file": "base.stl", "material": "9600 Resin White", "price_usd": 10.63, "quantity": 1},
+    {"file": "switch-plate.stl", "material": "9600 Resin White", "price_usd": 3.66, "quantity": 1},
+    {"file": "plate-spacer-pack.stl", "material": "9600 Resin White", "price_usd": 0.32, "quantity": 1},
+    {"file": "functional-volume-knob.stl", "material": "PA12-HP Nylon Black, dyed", "price_usd": 1.25, "quantity": 1},
+    {"file": "functional-volume-knob.stl", "material": "9600 Resin White", "price_usd": 0.32, "quantity": 1, "note": "Second material sample; confirm whether both are wanted before ordering"}
+  ],
+  "item_subtotal_usd": 16.18,
+  "shipping_estimate_usd": 11.26,
+  "pre_tax_total_usd": 27.44,
+  "tax_usd": null,
+  "note": "Prices are live quote values. Taxes and possible special charges may apply. The resin knob row is a second copy of the same geometry in a different material. No order was placed."
 }

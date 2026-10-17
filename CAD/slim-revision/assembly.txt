@@ -2,6 +2,8 @@ Current generated model files
 
 keyboard61-slim-assembly.step is the current complete CAD assembly export. It contains the 61-key keyboard, revised case, Pico/PCB envelope, portrait AA317 display envelope, encoder proxy, and generic keycaps with engraved legends and MX cross sockets.
 
+The former plain cylindrical knob reference is replaced by functional-volume-knob.step/.stl. The custom knob is 18 mm wide by 17 mm high, with 24 grip flutes, a top direction arrow, and a 14.4 mm deep D-shaft socket sized for the nominal 6 mm Adafruit 377 / Bourns PEC11 shaft. It is intended to turn volume and follow the encoder shaft when pushed for mute. CAD confirms the nominal shaft clears the socket and leaves 0.8 mm below the knob for 0.5 mm encoder-button travel; print fit and switch travel have not been physically tested, so test the socket and confirm the encoder depresses before production printing.
+
 mx-stem-fit-gauge.step and mx-stem-fit-gauge.stl contain a three-clearance fit gauge. Print and check the actual switches before printing all keycaps.
 
 The files are generated CAD references. Hardware fit, key travel, electrical behavior, and manufacturing tolerances have not been verified physically. See sources.txt and model-checks.json.

@@ -55,6 +55,19 @@
   ],
   "display_window_bottom_buffer_mm": 17.2,
   "display_window_knob_buffer_mm": 13.6,
+  "encoder_knob": {
+    "shaft_type": "6 mm D-shaft, Adafruit 377 / Bourns PEC11",
+    "socket_diameter_mm": 6.2,
+    "socket_flat_offset_mm": 2.3,
+    "socket_depth_mm": 14.4,
+    "knob_bottom_gap_mm": 0.8,
+    "encoder_switch_travel_mm": 0.5,
+    "knob_max_diameter_mm": 18,
+    "knob_height_mm": 17.0,
+    "grip_flutes": 24,
+    "function": "turn volume; axial push engages encoder switch for mute",
+    "fit_status": "CAD designed to nominal shaft dimensions; print fit and button travel not physically verified"
+  },
   "mx_socket_nominal_mm": {
     "cross": 4.1,
     "arm_width": 1.17,
@@ -141,9 +154,10 @@
     "MX sockets use nominal Cherry dimensions plus 0.10mm per-side print clearance; print the 3-size gauge and test actual Gateron switches",
     "MX model is generic, not Gateron Milky Yellow Pro V2",
     "Encoder model is ALPS EC11 proxy, not Adafruit 377",
+    "Knob socket uses nominal D-shaft dimensions and still needs a printed fit/button-travel test",
     "Keycap outer envelopes remain generic and need shape/feel testing",
     "WS stabilizer exact CAD unavailable; actual installed stabilizer compatibility unverified",
     "Actual Tab/Q Pico-pin interference and switch travel unverified",
-    "Printing must be requoted; old $19.61 quote does not apply"
+    "Live JLC3DP quote recorded in CAD/print-quote.json; taxes and final checkout charges are not included"
   ]
 }

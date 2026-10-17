@@ -14,3 +14,5 @@ Assembly: the case is 356 x 112 x 17.1 mm. CAD estimates 2.12 mm between the TFT
 Current screenshots: ../process-screenshots/2026-10-15/index.html
 
 KiCad PCB interface, 2026-10-15: synchronized the TFT control nets to Pico pins/pads (TFT_DC=U1.29, TFT_SCK=U1.31, TFT_MOSI=U1.32, TFT_CS=U1.34, plus 3V3 and GND). The display is case-mounted outside the keyboard PCB outline and uses a short wire harness; its four mounting holes are supported by the case, so no TFT mounting holes or connector footprint were added to the crowded keyboard PCB. Board DRC: 0 violations. Physical harness and mounting still need test fit.
+
+Functional knob, 2026-10-16: modeled for the nominal 6 mm D-shaft PEC11 encoder (Adafruit product 377); 6.2 mm socket with flat at 2.3 mm, 14.4 mm engagement, and 0.8 mm clearance below the knob for the encoder button travel. Encoder datasheet: https://cdn-shop.adafruit.com/datasheets/pec11.pdf. The nominal shaft size is authoritative; printed fit still needs a test.

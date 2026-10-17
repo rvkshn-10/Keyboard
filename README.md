@@ -4,7 +4,7 @@ Firmware for the Raspberry Pi Pico is in the firmware folder, while the PCB and 
 
 ## Bill of materials
 
-This table lists the whole planned build and who is responsible for each purchase. The Hack Club request covers only the rows marked **Hack Club funding request**; the other parts are planned personal purchases. Prices are estimates in USD before checkout unless noted. The PCB estimate is from the older, larger outline and needs a new quote for the compact layout.
+This table lists the whole planned build and who is responsible for each purchase. The Hack Club request covers only the rows marked **Hack Club funding request**, the other parts are planned personal purchases. Prices are estimates in USD before checkout unless noted. The PCB estimate is from the older, larger outline and needs a new quote for the compact layout.
 
 | Part | Qty | Unit | Total | Vendor | Buyer |
 | --- | ---: | ---: | ---: | --- | --- |
@@ -32,7 +32,7 @@ The $20 tax-and-shipping amount is a planning placeholder, not a confirmed cart 
 
 ## Compact PCB layout
 
-The current KiCad board outline is 295.05 × 100.05 mm, reduced from the earlier 295 × 168 mm layout. The Pico is mounted on the underside beneath the left key area, so it does not need a separate blank strip above the keyboard. Moving it beside the full-width key matrix would require a wider board or a separate wired module, so the current compact outline keeps it inside the keyboard footprint. The two KiCad 3D renders below show the front and underside; physical clearance still needs a hardware fit check.
+The current KiCad board outline is 295.05 × 100.05 mm, reduced from the earlier 295 × 168 mm layout. The Pico is mounted on the underside beneath the left key area, so it does not need a separate blank strip above the keyboard. Moving it beside the full-width key matrix would require a wider board or a separate wired module, so the current compact outline keeps it inside the keyboard footprint. The two KiCad 3D renders below show the front and underside, physical clearance still needs a hardware fit check.
 
 ![KiCad 3D render of the compact keyboard PCB top](CAD/review/pcb-top-3d.png)
 
